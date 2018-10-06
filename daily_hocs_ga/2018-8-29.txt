@@ -1,7 +1,7 @@
 #Daily Hoc For 2018-8-29
 *Todays Counts: 5988*
 
-#|Username|No. of Counts|Counts|Gets|Assists
+\#|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
 1|/u/Lonadont|2000|3|1
 2|/u/QuestoGuy|1914||3

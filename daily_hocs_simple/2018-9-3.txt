@@ -1,7 +1,7 @@
 #Daily Hoc For 2018-9-3
 *Todays Counts: 24059*
 
-#|Username|No. of Counts|Counts
+\#|Username|No. of Counts|Counts
 -|-|-|-
 1|/u/dominodan123|10525
 2|/u/amazingpikachu_38|7010

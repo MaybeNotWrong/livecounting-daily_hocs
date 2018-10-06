@@ -1,7 +1,7 @@
 #Daily Hoc For 2018-10-5
 *Todays Counts: 28520*
 
-#|Username|No. of Counts|Counts
+\#|Username|No. of Counts|Counts
 -|-|-|-
 1|/u/NobodyL0vesMe|6138
 2|/u/MaybeNotWrong|4976
