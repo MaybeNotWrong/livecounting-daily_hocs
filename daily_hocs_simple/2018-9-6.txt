@@ -1,7 +1,7 @@
 #Daily Hoc For 2018-9-6
 *Todays Counts: 9854*
 
-\#|Username|No. of Counts|Counts
+\#|Username||No. of Counts
 -|-|-|-
 1|/u/TOP_20|3983
 2|/u/amazingpikachu_38|1585
