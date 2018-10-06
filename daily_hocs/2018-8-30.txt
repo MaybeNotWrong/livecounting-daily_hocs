@@ -1,0 +1,36 @@
+#Daily Hoc For 2018-8-30
+*Todays Counts: 29316*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                  dominodan123|  10410 |   9 |  11 |  10 |  11 |   10 |  10 
+  2|                      rideride|   6528 |   9 |   4 |   8 |   5 |    9 |   5 
+  3|                      Lonadont|   5381 |  10 |   3 |   9 |   1 |    8 |   1 
+  4|                        TOP_20|   3536 |     |   6 |   1 |   6 |    1 |   8 
+  5|                    davidjl123|   2490 |     |   5 |     |   5 |      |   6 
+  6|                      MrBahr12|    664 |   1 |     |   1 |   1 |    1 |     
+  7|                 PrinceCrinkle|     60 |     |     |     |     |      |     
+  8|                       noduorg|     51 |     |     |     |     |    1 |     
+  9|                   smarvin6689|     26 |     |     |     |     |      |     
+ 10|                 Majestic_Bear|     26 |     |     |     |     |      |     
+ 11|             amazingpikachu_38|     25 |     |     |     |     |      |     
+ 12|                     gordonpt8|     23 |     |     |     |     |      |     
+ 13|               Tranquilsunrise|     20 |     |     |     |     |      |     
+ 14|                 co3_carbonate|     18 |     |     |     |     |      |     
+ 15|                 MaybeNotWrong|     15 |     |     |     |     |      |     
+ 16|                   LeinadSpoon|      9 |     |     |     |     |      |     
+ 17|                        buniws|      7 |   1 |     |     |     |      |     
+ 18|                     QuestoGuy|      7 |     |     |     |     |      |     
+ 19|               DemonBurritoCat|      5 |     |     |     |     |      |     
+ 20|                     TehVulpez|      5 |     |     |     |     |      |     
+ 21|          randomusername123458|      2 |     |     |     |     |      |     
+ 22|                         artbn|      2 |     |     |     |     |      |     
+ 23|                  dominodab123|      1 |     |     |     |     |      |     
+ 24|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 25|                    VitaminB16|      1 |     |     |     |     |      |     
+ 26|                        o99o99|      1 |     |     |     |     |      |     
+ 27|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 28|                      TOP_6689|      1 |     |     |     |     |      |     
+dominodan123 has achieved WRC today
+
+Debug: First message: {'body': 'The new Number of the Day is 262! \n [sidebar config {"GET":"000","Number of the Day":"262"}]: https://www.reddit.com', 'name': 'LiveUpdate_2c4c91c4-ac09-11e8-85f9-0e54e2c2f660', 'mobile_embeds': [], 'author': 'NumberOfTheDayBot', 'embeds': [], 'created': 1535630403.0, 'created_utc': 1535601603.0, 'body_html': '<div class="md"><p>The new Number of the Day is 262! </p>\n</div>', 'stricken': False, 'id': '2c4c91c4-ac09-11e8-85f9-0e54e2c2f660'}

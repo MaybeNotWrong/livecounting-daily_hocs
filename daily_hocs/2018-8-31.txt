@@ -1,0 +1,35 @@
+#Daily Hoc For 2018-8-31
+*Todays Counts: 19698*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                  dominodan123|   7158 |   6 |  12 |   4 |  10 |    5 |  10 
+  2|                   LeinadSpoon|   5048 |   2 |   6 |   4 |   6 |    6 |   5 
+  3|                      TOP_6689|   1494 |     |     |     |     |      |     
+  4|                        TOP_20|   1395 |     |   1 |   2 |   1 |    1 |   2 
+  5|                     TehVulpez|   1040 |   3 |     |   2 |     |    2 |     
+  6|                    davidjl123|   1026 |   2 |     |   2 |     |    2 |   1 
+  7|               DemonBurritoCat|   1026 |   2 |     |   2 |     |    2 |     
+  8|                      Lonadont|    798 |   2 |     |   2 |     |    1 |     
+  9|             amazingpikachu_38|    432 |     |   1 |     |   1 |      |   1 
+ 10|          randomusername123458|     94 |   1 |     |     |     |      |     
+ 11|                      rideride|     60 |     |     |     |     |      |     
+ 12|                   smarvin6689|     40 |   2 |     |   2 |   2 |      |     
+ 13|                     gordonpt8|     13 |     |     |     |     |      |     
+ 14|                 PrinceCrinkle|     11 |     |     |     |     |      |     
+ 15|                      MrBahr12|     10 |     |     |     |     |      |     
+ 16|                     QuestoGuy|      9 |     |     |     |     |      |     
+ 17|                 MaybeNotWrong|      8 |     |     |     |     |      |     
+ 18|                       noduorg|      7 |     |     |     |     |      |     
+ 19|                    LeinadFork|      6 |     |     |     |     |      |     
+ 20|                        o99o99|      6 |     |     |     |     |      |     
+ 21|                         artbn|      5 |     |     |     |     |      |     
+ 22|                    VitaminB16|      5 |     |     |     |     |      |     
+ 23|                SubSmartstocks|      3 |     |     |     |     |      |     
+ 24|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 25|               Tranquilsunrise|      1 |     |     |     |     |      |     
+ 26|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 27|               undead_mentions|      1 |     |     |     |     |      |     
+dominodan123 has achieved WRC today
+
+Debug: First message: {'body': '9,115,331', 'name': 'LiveUpdate_56ba98f6-acd2-11e8-86db-0e4f52b758ee', 'mobile_embeds': [], 'author': 'dominodan123', 'embeds': [], 'created': 1535716803.0, 'created_utc': 1535688003.0, 'body_html': '<div class="md"><p>9,115,331</p>\n</div>', 'stricken': False, 'id': '56ba98f6-acd2-11e8-86db-0e4f52b758ee'}

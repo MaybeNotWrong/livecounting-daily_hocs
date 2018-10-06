@@ -1,0 +1,32 @@
+#Daily Hoc For 2018-9-9
+*Todays Counts: 14019*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                        TOP_20|   5884 |   2 |   8 |   6 |   4 |    9 |   6 
+  2|                      Lonadont|   3823 |   7 |   1 |   6 |   3 |    1 |   2 
+  3|             amazingpikachu_38|   2096 |     |   5 |     |   4 |    3 |   3 
+  4|                  dominodan123|   1550 |   3 |     |   2 |   2 |      |     
+  5|               piyushsharma301|    315 |     |     |     |     |    1 |   1 
+  6|                      rideride|    171 |     |     |     |     |      |     
+  7|                       abplows|     41 |     |     |     |     |      |   2 
+  8|                 MaybeNotWrong|     29 |     |     |     |   2 |      |     
+  9|               Tranquilsunrise|     16 |     |     |     |     |      |     
+ 10|                     QuestoGuy|     15 |     |     |     |     |      |     
+ 11|                       noduorg|     15 |     |     |     |     |      |     
+ 12|                   smarvin6689|     14 |     |     |     |     |      |     
+ 13|                     gordonpt8|     12 |     |     |     |     |      |     
+ 14|                   LeinadSpoon|     12 |     |     |     |     |      |     
+ 15|                    davidjl123|      9 |     |     |     |     |      |     
+ 16|               DemonBurritoCat|      4 |   1 |     |     |     |      |     
+ 17|                      TOP_6689|      3 |     |     |     |     |      |     
+ 18|                         artbn|      2 |     |     |     |     |      |     
+ 19|                        o99o99|      2 |     |     |     |     |      |     
+ 20|                      MrBahr12|      2 |     |     |     |     |      |     
+ 21|                 PrinceCrinkle|      1 |     |     |     |     |      |     
+ 22|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 23|                    VitaminB16|      1 |     |     |     |     |      |     
+ 24|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+TOP_20 has achieved WRC today
+
+Debug: First message: {'body': 'The new Number of the Day is 479! \n [sidebar config {"GET":"000","Number of the Day":"479"}]: https://www.reddit.com', 'name': 'LiveUpdate_d5158800-b3e4-11e8-81c0-0e4d72b9fa30', 'mobile_embeds': [], 'author': 'NumberOfTheDayBot', 'embeds': [], 'created': 1536494404.0, 'created_utc': 1536465604.0, 'body_html': '<div class="md"><p>The new Number of the Day is 479! </p>\n</div>', 'stricken': False, 'id': 'd5158800-b3e4-11e8-81c0-0e4d72b9fa30'}

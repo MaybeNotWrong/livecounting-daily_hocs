@@ -1,0 +1,34 @@
+#Daily Hoc For 2018-9-4
+*Todays Counts: 18165*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                  dominodan123|   6117 |  10 |   3 |  11 |   2 |    2 |   3 
+  2|             amazingpikachu_38|   5902 |     |   9 |     |  13 |   13 |   9 
+  3|                      Lonadont|   2612 |   3 |   1 |   4 |   2 |    1 |   2 
+  4|                   LeinadSpoon|   1892 |   4 |   2 |   2 |   1 |    1 |     
+  5|                        TOP_20|    561 |     |   1 |   1 |     |    1 |   2 
+  6|                       abplows|    435 |     |   1 |     |     |      |   3 
+  7|                      rideride|    176 |     |     |     |     |      |     
+  8|                 PrinceCrinkle|    118 |     |     |     |     |      |     
+  9|                       noduorg|    112 |     |     |     |     |      |     
+ 10|                 MaybeNotWrong|    107 |     |     |     |     |      |     
+ 11|                   smarvin6689|     41 |     |     |     |     |      |     
+ 12|                     gordonpt8|     23 |     |     |     |     |      |     
+ 13|                     QuestoGuy|     15 |     |   1 |     |     |      |     
+ 14|                    davidjl123|     12 |     |     |     |     |      |     
+ 15|               Tranquilsunrise|     12 |     |     |     |     |      |     
+ 16|                         artbn|      9 |     |     |     |     |      |     
+ 17|                      MrBahr12|      7 |     |     |     |     |      |     
+ 18|               DemonBurritoCat|      3 |     |     |     |     |      |     
+ 19|                      TOP_6689|      2 |     |     |     |     |      |     
+ 20|                 cro4_chromate|      2 |     |     |     |     |      |     
+ 21|                       sodypop|      2 |     |     |     |     |      |     
+ 22|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 23|                        o99o99|      1 |     |     |     |     |      |     
+ 24|                    VitaminB16|      1 |     |     |     |     |      |     
+ 25|               piyushsharma301|      1 |     |     |     |     |      |     
+ 26|                     rschaosid|      1 |   1 |     |     |     |      |     
+dominodan123 has achieved WRC today
+
+Debug: First message: {'body': '9 191 067 ok', 'name': 'LiveUpdate_05cb44d6-aff7-11e8-9e3f-0ea5df5a6f96', 'mobile_embeds': [], 'author': 'amazingpikachu_38', 'embeds': [], 'created': 1536062412.0, 'created_utc': 1536033612.0, 'body_html': '<div class="md"><p>9 191 067 ok</p>\n</div>', 'stricken': False, 'id': '05cb44d6-aff7-11e8-9e3f-0ea5df5a6f96'}

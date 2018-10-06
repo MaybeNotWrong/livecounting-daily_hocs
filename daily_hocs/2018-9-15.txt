@@ -1,0 +1,35 @@
+#Daily Hoc For 2018-9-15
+*Todays Counts: 44730*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                      Lonadont|  12888 |  15 |  13 |  14 |  15 |   12 |  15 
+  2|                 MaybeNotWrong|  12404 |   7 |  14 |   7 |  16 |   13 |  15 
+  3|                   LeinadSpoon|   7277 |  10 |   8 |   8 |   6 |    5 |   5 
+  4|                      rideride|   4246 |   5 |   3 |   7 |   1 |    6 |   1 
+  5|                     QuestoGuy|   4226 |   6 |     |   8 |   2 |    8 |   1 
+  6|                        TOP_20|   1959 |     |   5 |   1 |   2 |      |   4 
+  7|             amazingpikachu_38|    763 |     |   1 |     |   1 |      |   1 
+  8|                  dominodan123|    599 |     |   1 |     |   1 |      |   2 
+  9|               Tranquilsunrise|    274 |     |     |     |   1 |      |   3 
+ 10|                   smarvin6689|     25 |     |     |     |     |      |     
+ 11|                     gordonpt8|     22 |   1 |     |     |     |      |     
+ 12|                    davidjl123|     15 |     |     |     |     |      |     
+ 13|                 cro4_chromate|      8 |     |     |     |     |      |     
+ 14|                      MrBahr12|      6 |     |     |     |     |      |     
+ 15|                    VitaminB16|      3 |     |     |     |     |      |     
+ 16|                   count_worse|      3 |     |     |     |     |      |     
+ 17|                   bump_anyone|      2 |   2 |     |     |     |      |     
+ 18|             SolidGoldMagikarp|      1 |     |     |     |     |      |     
+ 19|                       abplows|      1 |     |     |     |     |      |     
+ 20|               DemonBurritoCat|      1 |     |     |     |     |      |     
+ 21|               PerhapsNotWrong|      1 |     |     |     |     |      |     
+ 22|              PossiblyNotWrong|      1 |     |     |     |     |      |     
+ 23|                         artbn|      1 |     |     |     |     |      |     
+ 24|          randomusername123458|      1 |     |     |     |     |      |     
+ 25|                       noduorg|      1 |     |     |     |     |      |     
+ 26|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 27|                      TOP_6689|      1 |     |     |     |     |      |     
+Lonadont has achieved WRC today
+
+Debug: First message: {'body': 'The new Number of the Day is 316! \n [sidebar config {"GET":"000","Number of the Day":"316"}]: https://www.reddit.com', 'name': 'LiveUpdate_d3557ee2-b89b-11e8-85d6-0ef470c6ecf2', 'mobile_embeds': [], 'author': 'NumberOfTheDayBot', 'embeds': [], 'created': 1537012803.0, 'created_utc': 1536984003.0, 'body_html': '<div class="md"><p>The new Number of the Day is 316! </p>\n</div>', 'stricken': False, 'id': 'd3557ee2-b89b-11e8-85d6-0ef470c6ecf2'}

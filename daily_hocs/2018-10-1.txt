@@ -1,0 +1,40 @@
+#Daily Hoc For 2018-10-1
+*Todays Counts: 47197*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                 NobodyL0vesMe|  12762 |  12 |  11 |  17 |  15 |   11 |   7 
+  2|                 MaybeNotWrong|  12077 |  17 |   6 |  13 |   9 |    6 |   5 
+  3|             amazingpikachu_38|   7043 |     |  11 |     |  15 |   13 |  12 
+  4|                   LeinadSpoon|   3648 |   6 |   1 |   6 |   1 |    1 |   1 
+  5|                  dominodan123|   3400 |     |  11 |     |   3 |    9 |  12 
+  6|                         treje|   3210 |   8 |   1 |   6 |   1 |    2 |     
+  7|                      Lonadont|   2416 |   3 |   2 |   4 |   1 |    1 |   2 
+  8|                        TOP_20|   1721 |     |   3 |     |   3 |    3 |   4 
+  9|                      sakima11|    460 |   1 |     |   1 |     |      |     
+ 10|                       noduorg|    167 |     |   1 |     |     |    1 |     
+ 11|                       abplows|     97 |     |     |     |     |      |   4 
+ 12|                   Iamspeedy36|     43 |     |     |     |     |      |     
+ 13|                   smarvin6689|     35 |     |     |     |     |      |     
+ 14|                     gordonpt8|     27 |     |     |     |     |      |     
+ 15|               piyushsharma301|     18 |     |     |     |     |      |     
+ 16|                    LeinadFork|     11 |     |     |     |     |      |     
+ 17|             SolidGoldMagikarp|      8 |     |     |     |     |      |     
+ 18|                      TOP_6689|      8 |     |     |     |     |      |     
+ 19|                    davidjl123|      8 |     |     |     |     |      |     
+ 20|                   count_worse|      7 |     |     |     |     |      |     
+ 21|                    VitaminB16|      7 |     |     |     |     |      |     
+ 22|             amazingpiakchu_38|      6 |     |     |     |     |      |     
+ 23|                         artbn|      4 |     |     |     |     |      |     
+ 24|                      rideride|      4 |     |     |     |     |      |     
+ 25|                SuperBoberto64|      2 |     |     |     |     |      |     
+ 26|               Tranquilsunrise|      2 |     |     |     |     |      |     
+ 27|               DemonBurritoCat|      1 |     |     |     |     |      |     
+ 28|                      MrBahr12|      1 |     |     |     |     |      |     
+ 29|               NeonL1vesMatter|      1 |     |     |     |     |      |     
+ 30|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 31|                      yesduorg|      1 |     |     |     |     |      |     
+ 32|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+NobodyL0vesMe has achieved WRC today
+
+Debug: First message: {'body': '9701043\n\njust need whit and someone else to enter the prediction game and we could have 15 players!', 'name': 'LiveUpdate_787a1d6c-c52e-11e8-a931-0e2c50fa19da', 'mobile_embeds': [], 'author': 'gordonpt8', 'embeds': [], 'created': 1538395201.0, 'created_utc': 1538366401.0, 'body_html': '<div class="md"><p>9701043</p>\n\n<p>just need whit and someone else to enter the prediction game and we could have 15 players!</p>\n</div>', 'stricken': False, 'id': '787a1d6c-c52e-11e8-a931-0e2c50fa19da'}

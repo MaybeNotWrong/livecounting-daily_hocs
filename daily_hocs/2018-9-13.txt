@@ -1,0 +1,35 @@
+#Daily Hoc For 2018-9-13
+*Todays Counts: 21339*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                   LeinadSpoon|   6203 |   9 |   5 |   6 |   5 |    7 |   3 
+  2|                      Lonadont|   5113 |   8 |   1 |  10 |   2 |    9 |   1 
+  3|                     QuestoGuy|   2692 |     |   5 |     |   6 |      |   5 
+  4|                  dominodan123|   2273 |   3 |   1 |   3 |   1 |    3 |   3 
+  5|             amazingpikachu_38|   2239 |     |   5 |     |   5 |      |   3 
+  6|                        TOP_20|   1930 |     |   3 |   2 |   2 |    1 |   3 
+  7|          randomusername123458|    219 |     |     |     |   1 |      |     
+  8|                     TehVulpez|    213 |   1 |     |   1 |     |      |     
+  9|                      rideride|    124 |     |   1 |     |     |      |     
+ 10|                       abplows|    111 |     |     |     |     |      |   3 
+ 11|                 PrinceCrinkle|     96 |     |     |     |     |    1 |     
+ 12|             Iluvdubedgedsword|     47 |     |     |     |     |      |     
+ 13|                 MaybeNotWrong|     25 |     |     |     |     |      |     
+ 14|                   smarvin6689|     14 |     |     |     |     |      |     
+ 15|                     gordonpt8|     10 |     |     |     |     |      |     
+ 16|                    davidjl123|      8 |     |     |     |     |      |     
+ 17|                       noduorg|      7 |     |     |     |     |      |     
+ 18|                     rschaosid|      3 |     |     |     |     |      |     
+ 19|               DemonBurritoCat|      2 |     |     |     |     |      |     
+ 20|                         artbn|      2 |     |     |     |     |      |     
+ 21|                   count_worse|      2 |     |     |     |     |      |     
+ 22|                      TOP_6689|      1 |     |     |     |     |      |     
+ 23|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 24|                      MrBahr12|      1 |     |     |     |     |      |     
+ 25|                    VitaminB16|      1 |     |     |     |     |      |     
+ 26|                        o99o99|      1 |     |     |     |     |      |     
+ 27|               Tranquilsunrise|      1 |     |     |     |     |      |     
+LeinadSpoon has achieved WRC today
+
+Debug: First message: {'body': '9,303,596', 'name': 'LiveUpdate_7d8d180a-b709-11e8-a7a7-0e9302b9a7d8', 'mobile_embeds': [], 'author': 'Lonadont', 'embeds': [], 'created': 1536840002.0, 'created_utc': 1536811202.0, 'body_html': '<div class="md"><p>9,303,596</p>\n</div>', 'stricken': False, 'id': '7d8d180a-b709-11e8-a7a7-0e9302b9a7d8'}

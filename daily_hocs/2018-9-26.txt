@@ -1,0 +1,32 @@
+#Daily Hoc For 2018-9-26
+*Todays Counts: 27020*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                 MaybeNotWrong|  11235 |  20 |   7 |  18 |   5 |   18 |   5 
+  2|             amazingpikachu_38|   4229 |     |   8 |     |   8 |      |   7 
+  3|                        TOP_20|   3882 |   1 |   4 |   2 |   3 |    3 |   4 
+  4|                         treje|   3438 |   3 |   3 |   3 |   5 |    3 |   4 
+  5|                   LeinadSpoon|   2453 |   3 |   1 |   3 |   2 |    3 |   2 
+  6|                      Lonadont|   1050 |     |   3 |   1 |   3 |      |   4 
+  7|                  dominodan123|    576 |     |   1 |     |   1 |      |   1 
+  8|                      MrBahr12|     38 |     |     |     |     |      |     
+  9|                   smarvin6689|     26 |     |     |     |     |      |     
+ 10|             SolidGoldMagikarp|     24 |     |     |     |     |      |     
+ 11|                     gordonpt8|     16 |     |     |     |     |      |     
+ 12|                    davidjl123|     16 |     |     |     |     |      |     
+ 13|                      TOP_6689|     10 |     |     |     |     |      |     
+ 14|                       abplows|      8 |     |     |     |     |      |     
+ 15|               DemonBurritoCat|      4 |     |     |     |     |      |     
+ 16|                    VitaminB16|      4 |     |     |     |     |      |     
+ 17|               overturned-rock|      2 |     |     |     |     |      |     
+ 18|                         artbn|      2 |     |     |     |     |      |     
+ 19|               Tranquilsunrise|      2 |     |     |     |     |      |     
+ 20|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 21|                       noduorg|      1 |     |     |     |     |      |     
+ 22|                        o99o99|      1 |     |     |     |     |      |     
+ 23|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 24|                LeinadTeaspoon|      1 |     |     |     |     |      |     
+MaybeNotWrong has achieved WRC today
+
+Debug: First message: {'body': '9,561,013', 'name': 'LiveUpdate_a5596258-c140-11e8-b49b-0e9e97823578', 'mobile_embeds': [], 'author': 'dominodan123', 'embeds': [], 'created': 1537963203.0, 'created_utc': 1537934403.0, 'body_html': '<div class="md"><p>9,561,013</p>\n</div>', 'stricken': False, 'id': 'a5596258-c140-11e8-b49b-0e9e97823578'}

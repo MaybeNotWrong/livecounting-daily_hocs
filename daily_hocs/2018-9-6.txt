@@ -1,0 +1,38 @@
+#Daily Hoc For 2018-9-6
+*Todays Counts: 9854*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                        TOP_20|   3983 |     |   4 |   4 |   2 |    2 |     
+  2|             amazingpikachu_38|   1585 |     |   3 |     |   3 |      |   3 
+  3|                   LeinadSpoon|   1011 |   1 |   1 |   1 |   2 |    1 |   1 
+  4|                      Lonadont|    717 |   2 |   1 |   1 |   1 |    1 |   1 
+  5|                  dominodan123|    546 |     |     |     |   1 |    2 |     
+  6|                      rideride|    501 |     |   1 |     |     |    1 |     
+  7|                     QuestoGuy|    485 |   1 |     |   1 |     |    1 |     
+  8|          randomusername123458|    396 |   2 |     |   1 |     |      |     
+  9|                 PrinceCrinkle|    200 |     |     |     |     |    1 |     
+ 10|                       abplows|    117 |   1 |     |     |     |      |   3 
+ 11|                    davidjl123|    117 |   2 |     |     |     |      |     
+ 12|               Tranquilsunrise|    115 |     |     |   2 |   1 |    1 |   1 
+ 13|                      MrBahr12|     18 |     |     |     |     |      |     
+ 14|                         MewDP|     13 |     |     |     |     |      |     
+ 15|                   smarvin6689|      8 |     |     |     |     |      |     
+ 16|                     gordonpt8|      8 |     |     |     |     |      |     
+ 17|                 MaybeNotWrong|      7 |     |     |     |     |      |     
+ 18|                       noduorg|      6 |     |     |     |     |      |     
+ 19|                 cro4_chromate|      4 |     |     |     |     |      |     
+ 20|                   Chapula_Dad|      4 |   1 |     |     |     |      |     
+ 21|                        o99o99|      2 |     |     |     |     |      |     
+ 22|                    VitaminB16|      2 |     |     |     |     |      |     
+ 23|                           sex|      2 |     |     |     |     |      |     
+ 24|               DemonBurritoCat|      1 |     |     |     |     |      |     
+ 25|                         artbn|      1 |     |     |     |     |      |     
+ 26|             SolidGoldMagikarp|      1 |     |     |     |     |      |     
+ 27|                       lcommab|      1 |     |     |     |     |      |     
+ 28|                      TOP_6689|      1 |     |     |     |     |      |     
+ 29|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 30|                 TheNitromeFan|      1 |     |     |     |     |      |     
+N/A has achieved WRC today
+
+Debug: First message: {'body': 'The new Number of the Day is 212! \n [sidebar config {"GET":"000","Number of the Day":"212"}]: https://www.reddit.com', 'name': 'LiveUpdate_56d3b5be-b189-11e8-84b2-0e6f328f9b32', 'mobile_embeds': [], 'author': 'NumberOfTheDayBot', 'embeds': [], 'created': 1536235206.0, 'created_utc': 1536206406.0, 'body_html': '<div class="md"><p>The new Number of the Day is 212! </p>\n</div>', 'stricken': False, 'id': '56d3b5be-b189-11e8-84b2-0e6f328f9b32'}

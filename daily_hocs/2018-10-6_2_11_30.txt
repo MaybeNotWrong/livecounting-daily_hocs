@@ -1,0 +1,26 @@
+#Daily Hoc For 2018-10-6 Up to 2:11:30
+*Todays Counts: 3124*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|             amazingpikachu_38|   1458 |     |   3 |     |   3 |      |   3 
+  2|                      sakima11|   1127 |   2 |     |   2 |     |    2 |     
+  3|                       Retro28|    212 |   1 |     |   1 |     |      |     
+  4|                 MaybeNotWrong|    134 |     |     |     |     |    1 |     
+  5|                       yakubs1|     77 |     |     |     |     |      |     
+  6|                  dominodan123|     57 |     |     |     |     |    1 |     
+  7|                      rideride|     30 |     |     |     |     |      |     
+  8|                  SuckMyUterus|     10 |     |     |     |     |      |     
+  9|                   smarvin6689|      4 |     |     |     |     |      |     
+ 10|                     gordonpt8|      3 |     |     |     |     |      |     
+ 11|                  dominodab123|      2 |     |     |     |     |      |     
+ 12|                       abplows|      2 |     |     |     |     |      |     
+ 13|                        TOP_20|      2 |     |     |     |     |      |     
+ 14|                   LeinadSpoon|      2 |     |     |     |     |      |     
+ 15|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 16|                      TOP_6689|      1 |     |     |     |     |      |     
+ 17|                     TehVulpez|      1 |     |     |     |     |      |     
+ 18|                    davidjl123|      1 |     |     |     |     |      |     
+N/A has achieved WRC today
+
+Debug: First message: {'body': '9 846 201', 'name': 'LiveUpdate_4c27cd30-c91c-11e8-95d1-0e989fde73e6', 'mobile_embeds': [], 'author': 'amazingpikachu_38', 'embeds': [], 'created': 1538827200.0, 'created_utc': 1538798400.0, 'body_html': '<div class="md"><p>9 846 201</p>\n</div>', 'stricken': False, 'id': '4c27cd30-c91c-11e8-95d1-0e989fde73e6'}

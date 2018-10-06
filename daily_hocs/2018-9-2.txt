@@ -1,0 +1,32 @@
+#Daily Hoc For 2018-9-2
+*Todays Counts: 12991*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                  dominodan123|   5202 |   2 |   6 |   2 |   9 |    3 |   8 
+  2|                      Lonadont|   4656 |   7 |   5 |   8 |   2 |    7 |   2 
+  3|                     QuestoGuy|    971 |   1 |     |   1 |   1 |    1 |   1 
+  4|             amazingpikachu_38|    856 |     |   2 |     |   1 |      |   2 
+  5|                      TOP_6689|    739 |     |     |     |     |    2 |     
+  6|                   smarvin6689|    229 |   2 |     |   2 |     |      |     
+  7|                      MrBahr12|    113 |   1 |     |     |     |      |     
+  8|                      rideride|     52 |     |     |     |     |      |     
+  9|                        TOP_20|     47 |     |     |     |     |      |     
+ 10|                    davidjl123|     30 |     |     |     |     |      |     
+ 11|                  4everNdeavor|     17 |     |     |     |     |      |     
+ 12|                 TheNitromeFan|     14 |     |     |     |     |      |     
+ 13|                   LeinadSpoon|     12 |     |     |     |     |      |     
+ 14|                 MaybeNotWrong|     12 |     |     |     |     |      |     
+ 15|                     gordonpt8|     11 |     |     |     |     |      |     
+ 16|                         artbn|     10 |     |     |     |     |      |     
+ 17|                       noduorg|      9 |     |     |     |     |      |     
+ 18|               DemonBurritoCat|      4 |     |     |     |     |      |     
+ 19|                       abplows|      2 |     |     |     |     |      |     
+ 20|                    VitaminB16|      1 |     |     |     |     |      |     
+ 21|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 22|               Tranquilsunrise|      1 |     |     |     |     |      |     
+ 23|                        o99o99|      1 |     |     |     |     |      |     
+ 24|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+dominodan123 has achieved WRC today
+
+Debug: First message: {'body': "9,154,021\n\nholy crap we're almost at 10 million now", 'name': 'LiveUpdate_19345c26-ae65-11e8-be6f-0ef086ec551c', 'mobile_embeds': [], 'author': 'TheNitromeFan', 'embeds': [], 'created': 1535889787.0, 'created_utc': 1535860987.0, 'body_html': '<div class="md"><p>9,154,021</p>\n\n<p>holy crap we&#39;re almost at 10 million now</p>\n</div>', 'stricken': False, 'id': '19345c26-ae65-11e8-be6f-0ef086ec551c'}

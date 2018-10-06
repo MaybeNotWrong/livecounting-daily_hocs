@@ -1,0 +1,32 @@
+#Daily Hoc For 2018-9-24
+*Todays Counts: 17811*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                 MaybeNotWrong|   6973 |  12 |   1 |  11 |   3 |    5 |   1 
+  2|                         treje|   3234 |   2 |   4 |   3 |   4 |    4 |   3 
+  3|                        TOP_20|   2650 |   1 |   5 |   1 |   4 |    3 |   5 
+  4|                  dominodan123|   2322 |   1 |   5 |   1 |   3 |    3 |   5 
+  5|             amazingpikachu_38|   1133 |     |   2 |     |   3 |    2 |   2 
+  6|                   LeinadSpoon|    633 |     |   1 |     |   1 |    1 |   1 
+  7|                      Lonadont|    604 |   2 |     |   2 |     |      |     
+  8|                       abplows|     92 |     |     |     |     |      |   1 
+  9|             SolidGoldMagikarp|     78 |     |     |     |     |      |     
+ 10|                      rideride|     19 |     |     |     |     |      |     
+ 11|                     gordonpt8|     14 |     |     |     |     |      |     
+ 12|                   smarvin6689|     12 |     |     |     |     |      |     
+ 13|                    davidjl123|     11 |     |     |     |     |      |     
+ 14|               DemonBurritoCat|     10 |     |     |     |     |      |     
+ 15|                       noduorg|      6 |     |     |     |     |      |     
+ 16|                         artbn|      5 |     |     |     |     |      |     
+ 17|                    VitaminB16|      5 |     |     |     |     |      |     
+ 18|               overturned-rock|      2 |     |     |     |     |      |     
+ 19|                        o99o99|      2 |     |     |     |     |      |     
+ 20|            SOMEONE_COUNT_BARS|      2 |     |     |     |     |      |     
+ 21|                      MrBahr12|      1 |     |     |     |     |      |     
+ 22|               Tranquilsunrise|      1 |     |     |     |     |      |     
+ 23|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 24|                      TOP_6689|      1 |     |     |     |     |      |     
+MaybeNotWrong has achieved WRC today
+
+Debug: First message: {'body': '9,516,560', 'name': 'LiveUpdate_4f383914-bfae-11e8-aa9f-0e9983d5271a', 'mobile_embeds': [], 'author': 'Lonadont', 'embeds': [], 'created': 1537790400.0, 'created_utc': 1537761600.0, 'body_html': '<div class="md"><p>9,516,560</p>\n</div>', 'stricken': False, 'id': '4f383914-bfae-11e8-aa9f-0e9983d5271a'}

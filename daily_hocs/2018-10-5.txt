@@ -1,0 +1,193 @@
+#Daily Hoc For 2018-10-5
+*Todays Counts: 28520*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                 NobodyL0vesMe|   6138 |   5 |   3 |   8 |   1 |    5 |   1 
+  2|                 MaybeNotWrong|   4976 |   3 |   7 |   3 |   8 |    6 |   6 
+  3|             amazingpikachu_38|   3020 |     |   4 |     |   6 |    6 |   6 
+  4|                         treje|   1859 |   1 |   3 |   2 |   3 |    1 |   4 
+  5|                      sakima11|   1301 |   3 |     |   1 |     |    1 |     
+  6|                        TOP_20|   1150 |     |   1 |   1 |   2 |    1 |     
+  7|                      Lonadont|   1075 |     |     |   1 |   2 |      |     
+  8|                   LeinadSpoon|   1066 |     |   2 |   1 |   1 |    1 |   1 
+  9|                       Retro28|    995 |   3 |     |   2 |     |      |   1 
+ 10|                  dominodan123|    993 |   1 |   2 |   2 |     |    2 |   2 
+ 11|                iwannaplay5050|    599 |     |   1 |     |   1 |      |   1 
+ 12|                      yakobski|    582 |   1 |     |   1 |     |      |     
+ 13|                  justkidding-|    389 |     |     |     |     |    1 |   1 
+ 14|                     milkman73|    352 |   1 |   1 |   1 |     |      |     
+ 15|                     shelbymon|    346 |     |     |   1 |     |      |   1 
+ 16|               Chaoz_Sanctuary|    283 |   2 |     |   1 |   1 |      |     
+ 17|                       hkffbjb|    201 |   1 |     |     |     |      |     
+ 18|                      rideride|    188 |     |     |     |   1 |      |     
+ 19|              The-Gaming-Alien|    181 |     |     |   1 |     |      |     
+ 20|             SolidGoldMagikarp|    180 |     |     |     |   1 |      |     
+ 21|                  DullMrKitten|    162 |     |   1 |     |     |      |     
+ 22|                      gageboi8|    115 |     |     |     |     |      |   1 
+ 23|                      yesduorg|    108 |     |   1 |     |   1 |    1 |     
+ 24|                         xdbob|    103 |     |     |     |     |      |     
+ 25|                        Mac_cy|     98 |     |     |   1 |     |      |     
+ 26|              bugthrowaway1232|     97 |   2 |     |     |     |      |     
+ 27|            _PM_ME_YOUR_ELBOWS|     97 |     |     |     |   1 |      |     
+ 28|                       noduorg|     93 |     |     |     |     |    1 |     
+ 29|                       abplows|     78 |     |     |     |     |      |   2 
+ 30|                      Ben04113|     77 |   1 |     |     |     |      |     
+ 31|                   smarvin6689|     76 |     |     |     |     |      |     
+ 32|                royalpurplesky|     76 |     |     |     |     |    1 |     
+ 33|                  Sir_Omnomnom|     70 |     |     |     |     |      |     
+ 34|               Silken_Splendor|     65 |   1 |     |     |     |    1 |   1 
+ 35|                  skinni_stick|     58 |     |     |     |     |      |     
+ 36|                         ebw15|     57 |     |     |     |     |      |     
+ 37|               NeonL1vesMatter|     55 |     |     |     |     |      |     
+ 38|              ThatsNotATadpole|     55 |     |     |     |     |      |     
+ 39|                        ludrol|     50 |     |     |     |     |      |     
+ 40|                     frosty884|     49 |     |     |     |     |      |     
+ 41|                         iV01d|     48 |     |     |     |   1 |      |     
+ 42|                      McGeeK28|     47 |     |     |     |     |      |     
+ 43|                janusz_chytrus|     44 |     |     |     |     |      |     
+ 44|              greenTetrahedron|     43 |   2 |   1 |     |     |      |     
+ 45|                     gordonpt8|     38 |     |     |     |     |      |     
+ 46|                   polarizing1|     37 |     |     |     |     |      |     
+ 47|                        xavion|     36 |     |     |     |     |      |     
+ 48|                   GoonBaboon_|     35 |     |     |     |     |      |     
+ 49|             OliverAnthony2205|     32 |   1 |     |     |     |      |     
+ 50|             you_did_wot_to_it|     31 |     |     |     |     |      |     
+ 51|                     TehVulpez|     29 |     |     |     |     |      |     
+ 52|                     CMDR_Pete|     27 |     |     |     |     |      |     
+ 53|                    Maximus125|     25 |   1 |     |     |     |      |     
+ 54|                pandragonicorn|     23 |     |     |     |     |      |     
+ 55|                      Mr_Stifl|     19 |     |     |     |     |      |     
+ 56|                      ccrondon|     18 |     |     |     |     |      |     
+ 57|                 ToProsoponSou|     15 |     |     |     |     |      |     
+ 58|              _Microwaved_Cat_|     15 |     |     |     |     |      |     
+ 59|                    Nymunariya|     15 |     |     |     |     |      |     
+ 60|             MargaretFahrquhar|     14 |     |     |   1 |     |      |     
+ 61|                   Iamspeedy36|     13 |     |     |     |     |      |     
+ 62|                  SuckMyUterus|     13 |     |     |     |     |      |     
+ 63|                  Capitanbublo|     13 |     |     |     |     |      |     
+ 64|                c2h3o2_acetate|     13 |     |     |     |     |      |     
+ 65|                         artbn|     12 |     |     |     |     |      |     
+ 66|                    davidjl123|     12 |     |     |     |     |      |     
+ 67|                          lymi|     12 |     |     |     |     |      |     
+ 68|                  gnarlygarlic|     12 |     |     |     |     |      |     
+ 69|                     shedgehog|     11 |     |     |     |     |      |     
+ 70|                    lichbanelb|     11 |     |     |     |     |      |     
+ 71|                   Ground0Zero|     11 |     |     |     |     |      |     
+ 72|                   TheMagicPig|     11 |     |     |     |     |      |     
+ 73|                      manfroze|     10 |     |     |     |     |      |     
+ 74|                       revMaxx|     10 |     |     |     |     |      |     
+ 75|                  sasharussian|     10 |     |     |     |     |      |     
+ 76|                 mynameisgarry|      8 |     |     |     |     |      |     
+ 77|               SurprisedPotato|      8 |     |     |     |     |      |     
+ 78|                     Hydrottle|      7 |     |     |     |     |      |     
+ 79|                    VitaminB16|      7 |     |     |     |     |      |     
+ 80|                  TheXCube2303|      7 |     |     |     |     |      |     
+ 81|                     LebVeleno|      7 |     |     |     |     |      |     
+ 82|                   Haligaliman|      6 |     |     |     |     |      |     
+ 83|                   Blueyyyyyyy|      6 |     |     |     |     |      |     
+ 84|                      MrBahr12|      5 |     |     |     |     |      |     
+ 85|                     joepB2707|      5 |     |     |     |     |      |     
+ 86|                 WstrnBluSkwrl|      5 |     |     |     |     |      |     
+ 87|              TryingToCareLess|      4 |     |     |     |     |      |     
+ 88|                         sm127|      4 |     |     |     |     |      |     
+ 89|                     mryates97|      4 |     |     |     |     |      |     
+ 90|             Iluvdubedgedsword|      4 |     |     |     |     |      |     
+ 91|                   skidamarink|      4 |     |     |     |     |      |     
+ 92|             ProportionalBlend|      4 |     |     |     |     |      |     
+ 93|                      mikimoo9|      4 |     |     |     |     |      |     
+ 94|                    eclipticus|      4 |     |     |     |     |      |     
+ 95|                Chinchizomatic|      4 |     |     |     |     |      |     
+ 96|                  CalamityBlue|      4 |     |     |     |     |      |     
+ 97|                       TeeDeeG|      4 |     |     |     |     |    1 |     
+ 98|                   3internet5u|      3 |     |     |     |     |      |     
+ 99|                   count_worse|      3 |     |     |     |     |      |     
+100|                     Actionjem|      3 |     |     |     |     |      |     
+101|                       nooklyr|      3 |     |     |     |     |      |     
+102|                     skipperhi|      3 |     |     |     |     |      |     
+103|                   Huskpoopers|      3 |     |     |     |     |      |     
+104|                WichitaLineman|      3 |     |     |     |     |      |     
+105|                      Lmaoplss|      3 |     |     |     |     |      |     
+106|                    smaiderman|      3 |     |     |     |     |      |     
+107|                JohnDoeMissing|      3 |     |     |     |     |      |     
+108|                 KaineOrAmarov|      2 |     |     |     |     |      |     
+109|               DemonBurritoCat|      2 |     |     |     |     |      |     
+110|                thelonesomeguy|      2 |     |     |     |     |      |     
+111|                  Nanocephalic|      2 |     |     |     |     |      |     
+112|                      Valeriun|      2 |     |   1 |     |     |      |     
+113|                  AHeartOfGoal|      2 |     |     |     |     |      |     
+114|               DrMaxwellEdison|      2 |     |     |     |     |      |     
+115|                   JusticeBeak|      2 |     |     |     |     |      |     
+116|                  MisticniCofi|      2 |     |     |     |     |      |     
+117|                        NIMWIN|      2 |     |     |     |     |      |     
+118|                  CallMeDanPls|      2 |     |     |     |     |      |     
+119|             blueberryrainbow1|      2 |     |     |     |     |      |     
+120|                       iTazlin|      2 |     |     |     |     |      |     
+121|                      jasesmit|      2 |     |     |     |     |      |     
+122|                      TOP_6689|      2 |     |     |     |     |      |     
+123|                       PsiVolt|      2 |     |     |     |     |      |     
+124|                  Dubstep4Dayz|      2 |     |     |     |     |      |     
+125|             quick_crimson_fox|      2 |     |     |     |     |      |     
+126|          theflyingdutchman234|      2 |     |     |     |     |      |     
+127|                      LXWizard|      1 |     |     |     |     |      |     
+128|                         kynde|      1 |     |     |     |     |      |     
+129|                      eMoon_PL|      1 |     |     |     |     |      |     
+130|                   dogooder202|      1 |     |     |     |     |      |     
+131|           Available_Character|      1 |     |     |     |     |      |     
+132|                 CheesyDreamer|      1 |     |     |     |     |      |     
+133|                  Slime_finder|      1 |     |     |     |     |      |     
+134|                  chowyunsmall|      1 |     |     |     |     |      |     
+135|                    reaper0692|      1 |     |     |     |     |      |     
+136|                         RayJW|      1 |     |     |     |     |      |     
+137|                       Fluwydd|      1 |     |     |     |     |      |     
+138|                   ZaynesWorld|      1 |     |     |     |     |      |     
+139|                     poopookun|      1 |     |     |     |     |      |     
+140|                          YvdB|      1 |     |     |     |     |      |     
+141|                  Gearduan1234|      1 |     |     |     |     |      |     
+142|                      antdel31|      1 |     |     |     |     |      |     
+143|                Voltan_Ignatio|      1 |     |     |     |     |      |     
+144|                         Xenry|      1 |     |     |     |     |      |     
+145|                   testacc2132|      1 |     |     |     |     |      |     
+146|                   GroundSnake|      1 |     |     |     |     |      |     
+147|                 Hispanic_whip|      1 |     |     |     |     |      |     
+148|                      Nicnac13|      1 |     |     |     |     |      |     
+149|                        hofeee|      1 |     |     |     |     |      |     
+150|               Teh_Taxidermist|      1 |     |     |     |     |      |     
+151|                Lockie_Leonard|      1 |     |     |     |     |      |     
+152|                   Steelfist24|      1 |     |     |     |     |      |     
+153|                  Living_Human|      1 |     |     |     |     |      |     
+154|                      killingZ|      1 |     |     |     |     |      |     
+155|                    m45t3rb41t|      1 |     |     |     |     |      |     
+156|                         Lemlo|      1 |     |     |     |     |      |     
+157|                        xMikee|      1 |     |     |     |     |      |     
+158|                    Laurensios|      1 |     |     |     |     |      |     
+159|                      acnkaren|      1 |     |     |     |     |      |     
+160|                       Imreman|      1 |     |     |     |     |      |     
+161|                 valentiniljaz|      1 |     |     |     |     |      |     
+162|                   Penghuan035|      1 |     |     |     |     |      |     
+163|                      Sansanvi|      1 |   1 |     |     |     |      |     
+164|                      MrJelhoo|      1 |     |     |     |     |      |     
+165|                     abwiutfix|      1 |     |     |     |     |      |     
+166|                         mokzy|      1 |     |     |     |     |      |     
+167|          Arthur42Philip42Dent|      1 |     |     |     |     |      |     
+168|                  birthdayshoe|      1 |     |     |     |     |      |     
+169|                      vladisan|      1 |     |     |     |     |      |     
+170|                 EmergencyTaco|      1 |     |     |     |     |      |     
+171|                LeinadTeaspoon|      1 |     |     |     |     |      |     
+172|                    Iamrapid36|      1 |     |     |     |     |      |     
+173|             NobodyAsYouExpect|      1 |     |     |     |     |      |     
+174|                      teraflik|      1 |     |     |     |     |      |     
+175|                   h432k4jhdsf|      1 |     |     |     |     |      |     
+176|                 WeirdlyWeekly|      1 |     |     |     |     |      |     
+177|             SnoqualmieClimber|      1 |     |     |     |     |      |     
+178|                      egrodiel|      1 |     |     |     |     |      |     
+179|                         V4RIS|      1 |     |     |     |     |      |     
+180|             FiveDividedByZero|      1 |     |     |     |     |      |     
+181|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+182|                     jacoman10|      1 |     |     |     |     |      |     
+183|                   shawnohayon|      1 |     |     |     |     |      |     
+184|                   judochopftw|      1 |     |     |     |     |      |     
+185|                IngrossoAxwell|      1 |     |     |     |     |      |     
+NobodyL0vesMe has achieved WRC today
+
+Debug: First message: {'body': '9,817,687 stop going so fast lol', 'name': 'LiveUpdate_222f45f4-c853-11e8-8810-0e2f0e434172', 'mobile_embeds': [], 'author': 'frosty884', 'embeds': [], 'created': 1538740801.0, 'created_utc': 1538712001.0, 'body_html': '<div class="md"><p>9,817,687 stop going so fast lol</p>\n</div>', 'stricken': True, 'id': '222f45f4-c853-11e8-8810-0e2f0e434172'}

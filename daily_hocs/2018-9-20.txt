@@ -1,0 +1,30 @@
+#Daily Hoc For 2018-9-20
+*Todays Counts: 10665*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                 MaybeNotWrong|   4056 |   6 |   2 |   6 |   2 |    6 |   2 
+  2|                   LeinadSpoon|   2244 |   2 |   2 |   2 |   2 |    3 |   2 
+  3|             amazingpikachu_38|   1627 |     |   5 |     |   3 |      |   2 
+  4|                  dominodan123|   1268 |     |   2 |   1 |   3 |      |   2 
+  5|                      Lonadont|    819 |   1 |     |   1 |     |    2 |     
+  6|                        TOP_20|    490 |     |   1 |     |     |      |   1 
+  7|                       abplows|     62 |     |     |   1 |     |      |   2 
+  8|                     QuestoGuy|     26 |     |     |     |     |      |     
+  9|                   smarvin6689|     18 |     |     |     |     |      |     
+ 10|                    davidjl123|     15 |     |     |     |     |      |     
+ 11|                     gordonpt8|     10 |   1 |     |     |     |      |     
+ 12|                    VitaminB16|      7 |     |     |     |     |      |     
+ 13|                         MewDP|      6 |     |     |     |     |      |     
+ 14|                       noduorg|      3 |     |     |     |     |      |     
+ 15|                         Urbul|      3 |     |     |     |     |      |     
+ 16|               1_Count_Per_HoC|      2 |     |     |     |     |      |     
+ 17|                      rideride|      2 |     |     |     |     |      |     
+ 18|                      MrBahr12|      2 |     |     |     |     |      |     
+ 19|                 TheNitromeFan|      2 |     |     |     |     |      |     
+ 20|                         artbn|      1 |     |     |     |     |      |     
+ 21|               DemonBurritoCat|      1 |     |     |     |     |      |     
+ 22|                      TOP_6689|      1 |     |     |     |     |      |     
+MaybeNotWrong has achieved WRC today
+
+Debug: First message: {'body': 'The new Number of the Day is 346! \n [sidebar config {"GET":"000","Number of the Day":"346"}]: https://www.reddit.com', 'name': 'LiveUpdate_a7396354-bc89-11e8-9d48-0ecca1ea07a4', 'mobile_embeds': [], 'author': 'NumberOfTheDayBot', 'embeds': [], 'created': 1537444803.0, 'created_utc': 1537416003.0, 'body_html': '<div class="md"><p>The new Number of the Day is 346! </p>\n</div>', 'stricken': False, 'id': 'a7396354-bc89-11e8-9d48-0ecca1ea07a4'}

@@ -1,0 +1,32 @@
+#Daily Hoc For 2018-9-18
+*Todays Counts: 16338*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                 MaybeNotWrong|   6975 |   9 |   3 |   8 |   5 |    4 |   3 
+  2|                  dominodan123|   3185 |   1 |   7 |   1 |   6 |    5 |   7 
+  3|                        TOP_20|   1661 |     |   2 |   1 |   2 |    2 |   1 
+  4|                      Lonadont|   1626 |   3 |     |   3 |     |    1 |   1 
+  5|             amazingpikachu_38|   1359 |     |   3 |     |   3 |    3 |   3 
+  6|                   LeinadSpoon|    527 |   1 |     |   1 |     |      |     
+  7|                     QuestoGuy|    299 |     |   1 |     |     |      |     
+  8|                     TehVulpez|    243 |   1 |     |   1 |     |      |     
+  9|               Tranquilsunrise|    176 |     |   1 |     |     |    1 |   1 
+ 10|                       abplows|    111 |     |     |     |     |    1 |   1 
+ 11|                     ElliottB1|     54 |     |     |     |     |      |     
+ 12|                      rideride|     39 |     |     |     |     |      |     
+ 13|                   smarvin6689|     25 |     |     |     |     |      |     
+ 14|                    davidjl123|     20 |   1 |     |     |     |      |     
+ 15|                     gordonpt8|     11 |     |     |     |     |      |     
+ 16|                    VitaminB16|      6 |     |     |     |     |      |     
+ 17|                       noduorg|      6 |     |     |     |     |      |     
+ 18|                      MrBahr12|      5 |     |     |     |     |      |     
+ 19|                         artbn|      3 |     |     |     |     |      |     
+ 20|                 PrinceCrinkle|      2 |     |     |     |     |      |     
+ 21|                      TOP_6689|      2 |     |     |     |     |      |     
+ 22|               DemonBurritoCat|      1 |     |     |     |     |      |     
+ 23|                 cro4_chromate|      1 |     |     |     |     |      |     
+ 24|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+MaybeNotWrong has achieved WRC today
+
+Debug: First message: {'body': '9,422,025', 'name': 'LiveUpdate_54cc8404-baf7-11e8-9900-0eff6d146f0c', 'mobile_embeds': [], 'author': 'dominodan123', 'embeds': [], 'created': 1537272007.0, 'created_utc': 1537243207.0, 'body_html': '<div class="md"><p>9,422,025</p>\n</div>', 'stricken': False, 'id': '54cc8404-baf7-11e8-9900-0eff6d146f0c'}

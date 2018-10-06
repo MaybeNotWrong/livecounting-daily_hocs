@@ -1,0 +1,33 @@
+#Daily Hoc For 2018-9-21
+*Todays Counts: 20307*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                      Lonadont|   6098 |  11 |   3 |   9 |   5 |   10 |   3 
+  2|                 MaybeNotWrong|   5042 |   6 |   4 |   6 |   6 |    6 |   4 
+  3|                        TOP_20|   4135 |   1 |   4 |   4 |   2 |    4 |   6 
+  4|             amazingpikachu_38|   2978 |     |   6 |     |   5 |      |   5 
+  5|                   LeinadSpoon|   1749 |   1 |   3 |   1 |   2 |    1 |   2 
+  6|               overturned-rock|    109 |   1 |     |     |   1 |      |     
+  7|                       abplows|     50 |     |     |     |     |      |     
+  8|                  dominodan123|     41 |     |     |     |     |      |     
+  9|                     QuestoGuy|     24 |     |     |     |     |      |     
+ 10|              DoubleTheBubbles|     15 |     |     |     |     |      |     
+ 11|                   smarvin6689|     11 |     |     |     |     |      |     
+ 12|                    davidjl123|      9 |     |     |     |     |      |     
+ 13|                         dgsmd|      8 |     |     |     |     |      |     
+ 14|                     gordonpt8|      7 |     |     |     |     |      |     
+ 15|                    VitaminB16|      6 |     |     |     |     |      |     
+ 16|                   count_worse|      6 |   1 |     |     |     |      |     
+ 17|                      MrBahr12|      4 |     |     |     |     |      |     
+ 18|                         artbn|      3 |     |     |     |     |      |     
+ 19|                       noduorg|      3 |     |     |     |     |      |     
+ 20|               DemonBurritoCat|      2 |     |     |     |     |      |     
+ 21|               Tranquilsunrise|      2 |     |     |     |     |      |     
+ 22|                      TOP_6689|      2 |     |     |     |     |      |     
+ 23|            KindaSortaNotWrong|      1 |     |     |     |     |      |     
+ 24|                      rideride|      1 |     |     |     |     |      |     
+ 25|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+Lonadont has achieved WRC today
+
+Debug: First message: {'body': '9,463,738', 'name': 'LiveUpdate_d1f7e22c-bd52-11e8-a21e-0e6f2a05e91a', 'mobile_embeds': [], 'author': 'dominodan123', 'embeds': [], 'created': 1537531204.0, 'created_utc': 1537502404.0, 'body_html': '<div class="md"><p>9,463,738</p>\n</div>', 'stricken': False, 'id': 'd1f7e22c-bd52-11e8-a21e-0e6f2a05e91a'}
