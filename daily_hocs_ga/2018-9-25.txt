@@ -3,29 +3,29 @@
 
 #|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
-1|MaybeNotWrong|8649|13|5
-2|amazingpikachu_38|7885||16
-3|LeinadSpoon|6592|8|5
-4|treje|1716|4|
-5|dominodan123|1543|2|1
-6|abplows|55||
-7|TOP_20|48||
-8|smarvin6689|32||
-9|Lonadont|27||
-10|SolidGoldMagikarp|26||
-11|noduorg|26||
-12|davidjl123|16||
-13|VitaminB16|7||
-14|gordonpt8|6||
-15|overturned-rock|3||
-16|PrinceCrinkle|3||
-17|artbn|3||
-18|DemonBurritoCat|2||
-19|yesduorg|2||
-20|cro4_chromate|1||
-21|Tranquilsunrise|1||
-22|TOP_6689|1||
-23|1_Count_Per_HoC|1||
-24|MrBahr12|1||
+1|/u/MaybeNotWrong|8649|13|5
+2|/u/amazingpikachu_38|7885||16
+3|/u/LeinadSpoon|6592|8|5
+4|/u/treje|1716|4|
+5|/u/dominodan123|1543|2|1
+6|/u/abplows|55||
+7|/u/TOP_20|48||
+8|/u/smarvin6689|32||
+9|/u/Lonadont|27||
+10|/u/SolidGoldMagikarp|26||
+11|/u/noduorg|26||
+12|/u/davidjl123|16||
+13|/u/VitaminB16|7||
+14|/u/gordonpt8|6||
+15|/u/overturned-rock|3||
+16|/u/PrinceCrinkle|3||
+17|/u/artbn|3||
+18|/u/DemonBurritoCat|2||
+19|/u/yesduorg|2||
+20|/u/cro4_chromate|1||
+21|/u/Tranquilsunrise|1||
+22|/u/TOP_6689|1||
+23|/u/1_Count_Per_HoC|1||
+24|/u/MrBahr12|1||
 MaybeNotWrong has achieved WRC today
 

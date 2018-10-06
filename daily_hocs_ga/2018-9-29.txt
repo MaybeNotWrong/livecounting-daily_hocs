@@ -3,30 +3,30 @@
 
 #|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
-1|Lonadont|6923|10|3
-2|amazingpikachu_38|5162||13
-3|MaybeNotWrong|3487|6|1
-4|dominodan123|2179||4
-5|TOP_20|2150|2|2
-6|sakima11|1588|3|
-7|NobodyL0vesMe|1448|2|1
-8|treje|1040|2|
-9|rideride|55||
-10|smarvin6689|39||
-11|davidjl123|39||1
-12|noahleee|32||
-13|LeinadSpoon|26||
-14|abplows|25||
-15|gordonpt8|24||
-16|What-Porque|22||
-17|TOP_6689|19||
-18|SolidGoldMagikarp|11||
-19|LeinadFork|6||
-20|noduorg|3||
-21|MrBahr12|3||
-22|artbn|2||
-23|VitaminB16|1||
-24|randomusername123458|1||
-25|1_Count_Per_HoC|1||
+1|/u/Lonadont|6923|10|3
+2|/u/amazingpikachu_38|5162||13
+3|/u/MaybeNotWrong|3487|6|1
+4|/u/dominodan123|2179||4
+5|/u/TOP_20|2150|2|2
+6|/u/sakima11|1588|3|
+7|/u/NobodyL0vesMe|1448|2|1
+8|/u/treje|1040|2|
+9|/u/rideride|55||
+10|/u/smarvin6689|39||
+11|/u/davidjl123|39||1
+12|/u/noahleee|32||
+13|/u/LeinadSpoon|26||
+14|/u/abplows|25||
+15|/u/gordonpt8|24||
+16|/u/What-Porque|22||
+17|/u/TOP_6689|19||
+18|/u/SolidGoldMagikarp|11||
+19|/u/LeinadFork|6||
+20|/u/noduorg|3||
+21|/u/MrBahr12|3||
+22|/u/artbn|2||
+23|/u/VitaminB16|1||
+24|/u/randomusername123458|1||
+25|/u/1_Count_Per_HoC|1||
 Lonadont has achieved WRC today
 

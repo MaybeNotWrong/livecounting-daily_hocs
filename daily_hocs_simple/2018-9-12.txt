@@ -3,30 +3,30 @@
 
 #|Username|No. of Counts|Counts
 -|-|-|-
-1|Lonadont|3249
-2|LeinadSpoon|2741
-3|TOP_20|2371
-4|amazingpikachu_38|1847
-5|MaybeNotWrong|126
-6|dominodan123|74
-7|QuestoGuy|54
-8|rideride|52
-9|abplows|45
-10|Tranquilsunrise|25
-11|PrinceCrinkle|12
-12|davidjl123|11
-13|noduorg|10
-14|DemonBurritoCat|9
-15|VitaminB16|7
-16|Cox_1920|6
-17|smarvin6689|6
-18|Harding_1920|5
-19|gordonpt8|5
-20|artbn|2
-21|TOP_6689|1
-22|1_Count_Per_HoC|1
-23|MrBahr12|1
-24|randomusername123458|1
-25|cro4_chromate|1
+1|/u/Lonadont|3249
+2|/u/LeinadSpoon|2741
+3|/u/TOP_20|2371
+4|/u/amazingpikachu_38|1847
+5|/u/MaybeNotWrong|126
+6|/u/dominodan123|74
+7|/u/QuestoGuy|54
+8|/u/rideride|52
+9|/u/abplows|45
+10|/u/Tranquilsunrise|25
+11|/u/PrinceCrinkle|12
+12|/u/davidjl123|11
+13|/u/noduorg|10
+14|/u/DemonBurritoCat|9
+15|/u/VitaminB16|7
+16|/u/Cox_1920|6
+17|/u/smarvin6689|6
+18|/u/Harding_1920|5
+19|/u/gordonpt8|5
+20|/u/artbn|2
+21|/u/TOP_6689|1
+22|/u/1_Count_Per_HoC|1
+23|/u/MrBahr12|1
+24|/u/randomusername123458|1
+25|/u/cro4_chromate|1
 N/A has achieved WRC today
 

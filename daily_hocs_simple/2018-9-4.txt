@@ -3,31 +3,31 @@
 
 #|Username|No. of Counts|Counts
 -|-|-|-
-1|dominodan123|6117
-2|amazingpikachu_38|5902
-3|Lonadont|2612
-4|LeinadSpoon|1892
-5|TOP_20|561
-6|abplows|435
-7|rideride|176
-8|PrinceCrinkle|118
-9|noduorg|112
-10|MaybeNotWrong|107
-11|smarvin6689|41
-12|gordonpt8|23
-13|QuestoGuy|15
-14|davidjl123|12
-15|Tranquilsunrise|12
-16|artbn|9
-17|MrBahr12|7
-18|DemonBurritoCat|3
-19|TOP_6689|2
-20|cro4_chromate|2
-21|sodypop|2
-22|1_Count_Per_HoC|1
-23|o99o99|1
-24|VitaminB16|1
-25|piyushsharma301|1
-26|rschaosid|1
+1|/u/dominodan123|6117
+2|/u/amazingpikachu_38|5902
+3|/u/Lonadont|2612
+4|/u/LeinadSpoon|1892
+5|/u/TOP_20|561
+6|/u/abplows|435
+7|/u/rideride|176
+8|/u/PrinceCrinkle|118
+9|/u/noduorg|112
+10|/u/MaybeNotWrong|107
+11|/u/smarvin6689|41
+12|/u/gordonpt8|23
+13|/u/QuestoGuy|15
+14|/u/davidjl123|12
+15|/u/Tranquilsunrise|12
+16|/u/artbn|9
+17|/u/MrBahr12|7
+18|/u/DemonBurritoCat|3
+19|/u/TOP_6689|2
+20|/u/cro4_chromate|2
+21|/u/sodypop|2
+22|/u/1_Count_Per_HoC|1
+23|/u/o99o99|1
+24|/u/VitaminB16|1
+25|/u/piyushsharma301|1
+26|/u/rschaosid|1
 dominodan123 has achieved WRC today
 

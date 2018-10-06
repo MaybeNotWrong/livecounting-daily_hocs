@@ -3,29 +3,29 @@
 
 #|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
-1|MaybeNotWrong|5237|9|2
-2|Lonadont|4484|5|8
-3|amazingpikachu_38|2263||4
-4|TOP_20|2094||1
-5|dominodan123|187|1|
-6|TheNitromeFan|68||1
-7|abplows|35||
-8|smarvin6689|28|1|
-9|QuestoGuy|27||
-10|davidjl123|19||
-11|noduorg|9||
-12|gordonpt8|8||
-13|count_worse|8||
-14|LeinadSpoon|5||
-15|artbn|4||
-16|TOP_6689|2||
-17|rideride|2||
-18|DemonBurritoCat|2||
-19|PrinceCrinkle|2||
-20|VitaminB16|2||
-21|MrBahr12|2||
-22|TehVulpez|1||
-23|1_Count_Per_HoC|1||
-24|cro4_chromate|1||
+1|/u/MaybeNotWrong|5237|9|2
+2|/u/Lonadont|4484|5|8
+3|/u/amazingpikachu_38|2263||4
+4|/u/TOP_20|2094||1
+5|/u/dominodan123|187|1|
+6|/u/TheNitromeFan|68||1
+7|/u/abplows|35||
+8|/u/smarvin6689|28|1|
+9|/u/QuestoGuy|27||
+10|/u/davidjl123|19||
+11|/u/noduorg|9||
+12|/u/gordonpt8|8||
+13|/u/count_worse|8||
+14|/u/LeinadSpoon|5||
+15|/u/artbn|4||
+16|/u/TOP_6689|2||
+17|/u/rideride|2||
+18|/u/DemonBurritoCat|2||
+19|/u/PrinceCrinkle|2||
+20|/u/VitaminB16|2||
+21|/u/MrBahr12|2||
+22|/u/TehVulpez|1||
+23|/u/1_Count_Per_HoC|1||
+24|/u/cro4_chromate|1||
 MaybeNotWrong has achieved WRC today
 

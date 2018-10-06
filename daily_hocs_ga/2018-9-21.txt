@@ -3,30 +3,30 @@
 
 #|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
-1|Lonadont|6098|11|5
-2|MaybeNotWrong|5042|6|6
-3|TOP_20|4135|1|2
-4|amazingpikachu_38|2978||5
-5|LeinadSpoon|1749|1|2
-6|overturned-rock|109|1|1
-7|abplows|50||
-8|dominodan123|41||
-9|QuestoGuy|24||
-10|DoubleTheBubbles|15||
-11|smarvin6689|11||
-12|davidjl123|9||
-13|dgsmd|8||
-14|gordonpt8|7||
-15|VitaminB16|6||
-16|count_worse|6|1|
-17|MrBahr12|4||
-18|artbn|3||
-19|noduorg|3||
-20|DemonBurritoCat|2||
-21|Tranquilsunrise|2||
-22|TOP_6689|2||
-23|KindaSortaNotWrong|1||
-24|rideride|1||
-25|1_Count_Per_HoC|1||
+1|/u/Lonadont|6098|11|5
+2|/u/MaybeNotWrong|5042|6|6
+3|/u/TOP_20|4135|1|2
+4|/u/amazingpikachu_38|2978||5
+5|/u/LeinadSpoon|1749|1|2
+6|/u/overturned-rock|109|1|1
+7|/u/abplows|50||
+8|/u/dominodan123|41||
+9|/u/QuestoGuy|24||
+10|/u/DoubleTheBubbles|15||
+11|/u/smarvin6689|11||
+12|/u/davidjl123|9||
+13|/u/dgsmd|8||
+14|/u/gordonpt8|7||
+15|/u/VitaminB16|6||
+16|/u/count_worse|6|1|
+17|/u/MrBahr12|4||
+18|/u/artbn|3||
+19|/u/noduorg|3||
+20|/u/DemonBurritoCat|2||
+21|/u/Tranquilsunrise|2||
+22|/u/TOP_6689|2||
+23|/u/KindaSortaNotWrong|1||
+24|/u/rideride|1||
+25|/u/1_Count_Per_HoC|1||
 Lonadont has achieved WRC today
 

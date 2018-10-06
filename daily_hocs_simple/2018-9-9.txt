@@ -3,29 +3,29 @@
 
 #|Username|No. of Counts|Counts
 -|-|-|-
-1|TOP_20|5884
-2|Lonadont|3823
-3|amazingpikachu_38|2096
-4|dominodan123|1550
-5|piyushsharma301|315
-6|rideride|171
-7|abplows|41
-8|MaybeNotWrong|29
-9|Tranquilsunrise|16
-10|QuestoGuy|15
-11|noduorg|15
-12|smarvin6689|14
-13|gordonpt8|12
-14|LeinadSpoon|12
-15|davidjl123|9
-16|DemonBurritoCat|4
-17|TOP_6689|3
-18|artbn|2
-19|o99o99|2
-20|MrBahr12|2
-21|PrinceCrinkle|1
-22|cro4_chromate|1
-23|VitaminB16|1
-24|1_Count_Per_HoC|1
+1|/u/TOP_20|5884
+2|/u/Lonadont|3823
+3|/u/amazingpikachu_38|2096
+4|/u/dominodan123|1550
+5|/u/piyushsharma301|315
+6|/u/rideride|171
+7|/u/abplows|41
+8|/u/MaybeNotWrong|29
+9|/u/Tranquilsunrise|16
+10|/u/QuestoGuy|15
+11|/u/noduorg|15
+12|/u/smarvin6689|14
+13|/u/gordonpt8|12
+14|/u/LeinadSpoon|12
+15|/u/davidjl123|9
+16|/u/DemonBurritoCat|4
+17|/u/TOP_6689|3
+18|/u/artbn|2
+19|/u/o99o99|2
+20|/u/MrBahr12|2
+21|/u/PrinceCrinkle|1
+22|/u/cro4_chromate|1
+23|/u/VitaminB16|1
+24|/u/1_Count_Per_HoC|1
 TOP_20 has achieved WRC today
 

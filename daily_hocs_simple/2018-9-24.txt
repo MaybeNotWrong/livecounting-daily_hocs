@@ -3,29 +3,29 @@
 
 #|Username|No. of Counts|Counts
 -|-|-|-
-1|MaybeNotWrong|6973
-2|treje|3234
-3|TOP_20|2650
-4|dominodan123|2322
-5|amazingpikachu_38|1133
-6|LeinadSpoon|633
-7|Lonadont|604
-8|abplows|92
-9|SolidGoldMagikarp|78
-10|rideride|19
-11|gordonpt8|14
-12|smarvin6689|12
-13|davidjl123|11
-14|DemonBurritoCat|10
-15|noduorg|6
-16|artbn|5
-17|VitaminB16|5
-18|overturned-rock|2
-19|o99o99|2
-20|SOMEONE_COUNT_BARS|2
-21|MrBahr12|1
-22|Tranquilsunrise|1
-23|cro4_chromate|1
-24|TOP_6689|1
+1|/u/MaybeNotWrong|6973
+2|/u/treje|3234
+3|/u/TOP_20|2650
+4|/u/dominodan123|2322
+5|/u/amazingpikachu_38|1133
+6|/u/LeinadSpoon|633
+7|/u/Lonadont|604
+8|/u/abplows|92
+9|/u/SolidGoldMagikarp|78
+10|/u/rideride|19
+11|/u/gordonpt8|14
+12|/u/smarvin6689|12
+13|/u/davidjl123|11
+14|/u/DemonBurritoCat|10
+15|/u/noduorg|6
+16|/u/artbn|5
+17|/u/VitaminB16|5
+18|/u/overturned-rock|2
+19|/u/o99o99|2
+20|/u/SOMEONE_COUNT_BARS|2
+21|/u/MrBahr12|1
+22|/u/Tranquilsunrise|1
+23|/u/cro4_chromate|1
+24|/u/TOP_6689|1
 MaybeNotWrong has achieved WRC today
 

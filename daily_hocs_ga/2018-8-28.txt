@@ -3,31 +3,31 @@
 
 #|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
-1|dominodan123|3341|5|1
-2|amazingpikachu_38|3140||7
-3|Lonadont|1769|2|1
-4|TOP_20|1739||1
-5|davidjl123|1040|1|2
-6|MaybeNotWrong|693|2|
-7|QuestoGuy|30||
-8|LeinadSpoon|16||
-9|rideride|15||
-10|smarvin6689|15||
-11|gordonpt8|15|1|
-12|andrewtheredditor|15||
-13|VitaminB16|14||
-14|MrBahr12|9||
-15|PrinceCrinkle|7||
-16|noduorg|7||
-17|DemonBurritoCat|6|1|
-18|TOP_6689|2||
-19|artbn|2||
-20|SubSmartstocks|1||
-21|TehVulpez|1||
-22|1_Count_Per_HoC|1||
-23|abplows|1||
-24|o99o99|1||
-25|cro4_chromate|1||
-26|Tranquilsunrise|1||
+1|/u/dominodan123|3341|5|1
+2|/u/amazingpikachu_38|3140||7
+3|/u/Lonadont|1769|2|1
+4|/u/TOP_20|1739||1
+5|/u/davidjl123|1040|1|2
+6|/u/MaybeNotWrong|693|2|
+7|/u/QuestoGuy|30||
+8|/u/LeinadSpoon|16||
+9|/u/rideride|15||
+10|/u/smarvin6689|15||
+11|/u/gordonpt8|15|1|
+12|/u/andrewtheredditor|15||
+13|/u/VitaminB16|14||
+14|/u/MrBahr12|9||
+15|/u/PrinceCrinkle|7||
+16|/u/noduorg|7||
+17|/u/DemonBurritoCat|6|1|
+18|/u/TOP_6689|2||
+19|/u/artbn|2||
+20|/u/SubSmartstocks|1||
+21|/u/TehVulpez|1||
+22|/u/1_Count_Per_HoC|1||
+23|/u/abplows|1||
+24|/u/o99o99|1||
+25|/u/cro4_chromate|1||
+26|/u/Tranquilsunrise|1||
 dominodan123 has achieved WRC today
 

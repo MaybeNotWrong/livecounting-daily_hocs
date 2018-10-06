@@ -3,29 +3,29 @@
 
 #|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
-1|MaybeNotWrong|6975|9|5
-2|dominodan123|3185|1|6
-3|TOP_20|1661||2
-4|Lonadont|1626|3|
-5|amazingpikachu_38|1359||3
-6|LeinadSpoon|527|1|
-7|QuestoGuy|299||
-8|TehVulpez|243|1|
-9|Tranquilsunrise|176||
-10|abplows|111||
-11|ElliottB1|54||
-12|rideride|39||
-13|smarvin6689|25||
-14|davidjl123|20|1|
-15|gordonpt8|11||
-16|VitaminB16|6||
-17|noduorg|6||
-18|MrBahr12|5||
-19|artbn|3||
-20|PrinceCrinkle|2||
-21|TOP_6689|2||
-22|DemonBurritoCat|1||
-23|cro4_chromate|1||
-24|1_Count_Per_HoC|1||
+1|/u/MaybeNotWrong|6975|9|5
+2|/u/dominodan123|3185|1|6
+3|/u/TOP_20|1661||2
+4|/u/Lonadont|1626|3|
+5|/u/amazingpikachu_38|1359||3
+6|/u/LeinadSpoon|527|1|
+7|/u/QuestoGuy|299||
+8|/u/TehVulpez|243|1|
+9|/u/Tranquilsunrise|176||
+10|/u/abplows|111||
+11|/u/ElliottB1|54||
+12|/u/rideride|39||
+13|/u/smarvin6689|25||
+14|/u/davidjl123|20|1|
+15|/u/gordonpt8|11||
+16|/u/VitaminB16|6||
+17|/u/noduorg|6||
+18|/u/MrBahr12|5||
+19|/u/artbn|3||
+20|/u/PrinceCrinkle|2||
+21|/u/TOP_6689|2||
+22|/u/DemonBurritoCat|1||
+23|/u/cro4_chromate|1||
+24|/u/1_Count_Per_HoC|1||
 MaybeNotWrong has achieved WRC today
 

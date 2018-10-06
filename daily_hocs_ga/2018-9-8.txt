@@ -3,30 +3,30 @@
 
 #|Username|No. of Counts|Counts|Gets|Assists
 -|-|-|-|-|-
-1|amazingpikachu_38|1392||4
-2|Lonadont|1324|2|1
-3|QuestoGuy|1029|1|1
-4|TOP_20|524||1
-5|TehVulpez|498|1|
-6|LeinadSpoon|385|1|
-7|randomusername123458|293|1|
-8|dominodan123|86||
-9|rideride|60||
-10|abplows|56||
-11|smarvin6689|13||
-12|DemonBurritoCat|13||
-13|davidjl123|10||
-14|gordonpt8|6||
-15|MaybeNotWrong|4||
-16|VitaminB16|3||
-17|noduorg|3||
-18|TOP_6689|2||
-19|artbn|2||
-20|1_Count_Per_HoC|1||
-21|SolidGoldMagikarp|1||
-22|MrBahr12|1||
-23|o99o99|1||
-24|AstroMagician|1||
-25|Tranquilsunrise|1||
+1|/u/amazingpikachu_38|1392||4
+2|/u/Lonadont|1324|2|1
+3|/u/QuestoGuy|1029|1|1
+4|/u/TOP_20|524||1
+5|/u/TehVulpez|498|1|
+6|/u/LeinadSpoon|385|1|
+7|/u/randomusername123458|293|1|
+8|/u/dominodan123|86||
+9|/u/rideride|60||
+10|/u/abplows|56||
+11|/u/smarvin6689|13||
+12|/u/DemonBurritoCat|13||
+13|/u/davidjl123|10||
+14|/u/gordonpt8|6||
+15|/u/MaybeNotWrong|4||
+16|/u/VitaminB16|3||
+17|/u/noduorg|3||
+18|/u/TOP_6689|2||
+19|/u/artbn|2||
+20|/u/1_Count_Per_HoC|1||
+21|/u/SolidGoldMagikarp|1||
+22|/u/MrBahr12|1||
+23|/u/o99o99|1||
+24|/u/AstroMagician|1||
+25|/u/Tranquilsunrise|1||
 N/A has achieved WRC today
 

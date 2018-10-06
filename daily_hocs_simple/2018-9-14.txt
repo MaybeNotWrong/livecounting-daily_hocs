@@ -3,27 +3,27 @@
 
 #|Username|No. of Counts|Counts
 -|-|-|-
-1|LeinadSpoon|13353
-2|Lonadont|5183
-3|amazingpikachu_38|5052
-4|dominodan123|3207
-5|QuestoGuy|2826
-6|abplows|870
-7|TOP_20|392
-8|qualw|294
-9|MaybeNotWrong|223
-10|smarvin6689|31
-11|gordonpt8|14
-12|rideride|13
-13|VitaminB16|12
-14|davidjl123|11
-15|MrBahr12|4
-16|noduorg|4
-17|DemonBurritoCat|3
-18|Tranquilsunrise|3
-19|artbn|2
-20|1_Count_Per_HoC|1
-21|TOP_6689|1
-22|o99o99|1
+1|/u/LeinadSpoon|13353
+2|/u/Lonadont|5183
+3|/u/amazingpikachu_38|5052
+4|/u/dominodan123|3207
+5|/u/QuestoGuy|2826
+6|/u/abplows|870
+7|/u/TOP_20|392
+8|/u/qualw|294
+9|/u/MaybeNotWrong|223
+10|/u/smarvin6689|31
+11|/u/gordonpt8|14
+12|/u/rideride|13
+13|/u/VitaminB16|12
+14|/u/davidjl123|11
+15|/u/MrBahr12|4
+16|/u/noduorg|4
+17|/u/DemonBurritoCat|3
+18|/u/Tranquilsunrise|3
+19|/u/artbn|2
+20|/u/1_Count_Per_HoC|1
+21|/u/TOP_6689|1
+22|/u/o99o99|1
 LeinadSpoon has achieved WRC today
 

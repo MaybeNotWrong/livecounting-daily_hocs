@@ -3,27 +3,27 @@
 
 #|Username|No. of Counts|Counts
 -|-|-|-
-1|MaybeNotWrong|4056
-2|LeinadSpoon|2244
-3|amazingpikachu_38|1627
-4|dominodan123|1268
-5|Lonadont|819
-6|TOP_20|490
-7|abplows|62
-8|QuestoGuy|26
-9|smarvin6689|18
-10|davidjl123|15
-11|gordonpt8|10
-12|VitaminB16|7
-13|MewDP|6
-14|noduorg|3
-15|Urbul|3
-16|1_Count_Per_HoC|2
-17|rideride|2
-18|MrBahr12|2
-19|TheNitromeFan|2
-20|artbn|1
-21|DemonBurritoCat|1
-22|TOP_6689|1
+1|/u/MaybeNotWrong|4056
+2|/u/LeinadSpoon|2244
+3|/u/amazingpikachu_38|1627
+4|/u/dominodan123|1268
+5|/u/Lonadont|819
+6|/u/TOP_20|490
+7|/u/abplows|62
+8|/u/QuestoGuy|26
+9|/u/smarvin6689|18
+10|/u/davidjl123|15
+11|/u/gordonpt8|10
+12|/u/VitaminB16|7
+13|/u/MewDP|6
+14|/u/noduorg|3
+15|/u/Urbul|3
+16|/u/1_Count_Per_HoC|2
+17|/u/rideride|2
+18|/u/MrBahr12|2
+19|/u/TheNitromeFan|2
+20|/u/artbn|1
+21|/u/DemonBurritoCat|1
+22|/u/TOP_6689|1
 MaybeNotWrong has achieved WRC today
 

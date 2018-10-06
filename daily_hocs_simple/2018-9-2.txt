@@ -3,29 +3,29 @@
 
 #|Username|No. of Counts|Counts
 -|-|-|-
-1|dominodan123|5202
-2|Lonadont|4656
-3|QuestoGuy|971
-4|amazingpikachu_38|856
-5|TOP_6689|739
-6|smarvin6689|229
-7|MrBahr12|113
-8|rideride|52
-9|TOP_20|47
-10|davidjl123|30
-11|4everNdeavor|17
-12|TheNitromeFan|14
-13|LeinadSpoon|12
-14|MaybeNotWrong|12
-15|gordonpt8|11
-16|artbn|10
-17|noduorg|9
-18|DemonBurritoCat|4
-19|abplows|2
-20|VitaminB16|1
-21|cro4_chromate|1
-22|Tranquilsunrise|1
-23|o99o99|1
-24|1_Count_Per_HoC|1
+1|/u/dominodan123|5202
+2|/u/Lonadont|4656
+3|/u/QuestoGuy|971
+4|/u/amazingpikachu_38|856
+5|/u/TOP_6689|739
+6|/u/smarvin6689|229
+7|/u/MrBahr12|113
+8|/u/rideride|52
+9|/u/TOP_20|47
+10|/u/davidjl123|30
+11|/u/4everNdeavor|17
+12|/u/TheNitromeFan|14
+13|/u/LeinadSpoon|12
+14|/u/MaybeNotWrong|12
+15|/u/gordonpt8|11
+16|/u/artbn|10
+17|/u/noduorg|9
+18|/u/DemonBurritoCat|4
+19|/u/abplows|2
+20|/u/VitaminB16|1
+21|/u/cro4_chromate|1
+22|/u/Tranquilsunrise|1
+23|/u/o99o99|1
+24|/u/1_Count_Per_HoC|1
 dominodan123 has achieved WRC today
 
