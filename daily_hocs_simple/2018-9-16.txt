@@ -1,8 +1,8 @@
 #Daily Hoc For 2018-9-16
 *Todays Counts: 10230*
 
-\#|Username||No. of Counts
--|-|-|-
+\#|Username|No. of Counts
+-|-|-
 1|/u/QuestoGuy|2836
 2|/u/rideride|2631
 3|/u/Lonadont|1939

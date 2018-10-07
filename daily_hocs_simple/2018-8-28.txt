@@ -1,8 +1,8 @@
 #Daily Hoc For 2018-8-28
 *Todays Counts: 11882*
 
-\#|Username||No. of Counts
--|-|-|-
+\#|Username|No. of Counts
+-|-|-
 1|/u/dominodan123|3341
 2|/u/amazingpikachu_38|3140
 3|/u/Lonadont|1769

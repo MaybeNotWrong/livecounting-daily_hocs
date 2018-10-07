@@ -1,8 +1,8 @@
 #Daily Hoc For 2018-9-14
 *Todays Counts: 31500*
 
-\#|Username||No. of Counts|Gets|Assists
--|-|-|-|-|-
+\#|Username|No. of Counts|Gets|Assists
+-|-|-|-|-
 1|/u/LeinadSpoon|13353|15|12
 2|/u/Lonadont|5183|10|4
 3|/u/amazingpikachu_38|5052||10

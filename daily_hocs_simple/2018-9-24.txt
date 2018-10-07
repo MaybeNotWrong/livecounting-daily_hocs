@@ -1,8 +1,8 @@
 #Daily Hoc For 2018-9-24
 *Todays Counts: 17811*
 
-\#|Username||No. of Counts
--|-|-|-
+\#|Username|No. of Counts
+-|-|-
 1|/u/MaybeNotWrong|6973
 2|/u/treje|3234
 3|/u/TOP_20|2650
