@@ -1,0 +1,62 @@
+#Daily Hoc For 2018-10-7
+*Todays Counts: 28302*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|                 NobodyL0vesMe|   6534 |   8 |   4 |   9 |   4 |    6 |   2 
+  2|                         treje|   4428 |   5 |   3 |   6 |   4 |    5 |   5 
+  3|             amazingpikachu_38|   3864 |     |   7 |     |   3 |      |   6 
+  4|                   parker_cube|   2407 |   3 |   1 |   3 |   2 |    4 |   1 
+  5|                  dominodan123|   2074 |   1 |   4 |   2 |   3 |    2 |   4 
+  6|                      Lonadont|   1838 |   3 |   4 |     |   5 |      |   2 
+  7|                 MaybeNotWrong|   1286 |   1 |   1 |   2 |   2 |    2 |   2 
+  8|                iwannaplay5050|   1255 |     |     |   3 |   4 |    1 |     
+  9|               APackOfSmarties|   1180 |   3 |     |   1 |     |    3 |     
+ 10|                        TOP_20|   1059 |     |   3 |     |     |      |   8 
+ 11|               Tranquilsunrise|    379 |     |     |     |   1 |      |   1 
+ 12|                xMrlMyCckTrtBf|    345 |     |     |   1 |     |    1 |     
+ 13|                 Magnus_Tesshu|    341 |   1 |     |     |     |    1 |     
+ 14|             SolidGoldMagikarp|    225 |     |   1 |     |     |    1 |     
+ 15|                  skinni_stick|    202 |     |     |     |     |      |     
+ 16|                      sakima11|    199 |   1 |     |   1 |     |    1 |     
+ 17|                     gordonpt8|    147 |   2 |     |     |     |    1 |     
+ 18|                     TheWubbie|     75 |     |     |     |     |      |     
+ 19|            annoyingpikachu_38|     61 |     |     |     |     |      |     
+ 20|                    kbeirnie99|     61 |     |     |     |     |      |     
+ 21|                      yakobski|     51 |     |     |     |     |      |     
+ 22|                      rideride|     46 |     |     |     |     |      |     
+ 23|                   smarvin6689|     37 |     |     |     |     |      |     
+ 24|                     Joshquick|     28 |   1 |     |     |     |      |     
+ 25|                    davidjl123|     27 |     |     |     |   1 |      |     
+ 26|                       abplows|     23 |     |     |     |     |      |     
+ 27|                  heavybakugan|     15 |     |     |     |     |      |     
+ 28|                  Lifeofchrome|     13 |     |     |     |     |      |     
+ 29|               Chaoz_Sanctuary|     12 |     |     |     |     |      |     
+ 30|                        Mac_cy|     12 |     |     |     |     |      |     
+ 31|                     Hydrottle|     11 |     |     |     |     |      |     
+ 32|                RedTwinkleToes|     10 |     |     |     |     |      |     
+ 33|                       noduorg|      9 |     |     |     |     |      |     
+ 34|                          b66b|      6 |     |     |     |     |      |     
+ 35|                        RoaDnz|      6 |     |     |     |     |      |     
+ 36|                 cro4_chromate|      4 |     |     |     |     |      |     
+ 37|                      TOP_6689|      4 |     |     |     |     |      |     
+ 38|                       chmpdog|      4 |     |     |     |     |      |     
+ 39|                         artbn|      3 |     |     |     |     |      |     
+ 40|                       Retro28|      3 |     |     |     |     |      |     
+ 41|                      SUMBWEDY|      3 |     |     |     |     |      |     
+ 42|                   LeinadSpoon|      2 |     |     |     |     |      |     
+ 43|                    JustAnchor|      2 |     |     |     |     |      |     
+ 44|                   MutantCoach|      1 |     |     |     |     |      |     
+ 45|                   bump_anyone|      1 |   1 |     |     |     |      |     
+ 46|               DemonBurritoCat|      1 |     |     |     |     |      |     
+ 47|                    VitaminB16|      1 |     |     |     |     |      |     
+ 48|                    overdrafts|      1 |     |     |     |     |      |     
+ 49|               NeonL1vesMatter|      1 |     |     |     |     |      |     
+ 50|                       Romulxn|      1 |     |     |     |     |      |     
+ 51|                        ludrol|      1 |     |     |     |     |      |     
+ 52|                       TOP_118|      1 |     |     |     |     |      |     
+ 53|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 54|                      MrBahr12|      1 |     |     |     |     |      |     
+NobodyL0vesMe has achieved WRC today
+
+Debug: First message: {'body': '9,873,941', 'name': 'LiveUpdate_7b84c352-c9e5-11e8-a94c-0e579a638f52', 'mobile_embeds': [], 'author': 'Joshquick', 'embeds': [], 'created': 1538913609.0, 'created_utc': 1538884809.0, 'body_html': '<div class="md"><p>9,873,941</p>\n</div>', 'stricken': False, 'id': '7b84c352-c9e5-11e8-a94c-0e579a638f52'}
