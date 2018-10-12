@@ -1,0 +1,31 @@
+#Daily Hoc For 2018-9-19
+*Todays Counts: 14491*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/MaybeNotWrong|5237|4382|855
+2|/u/Lonadont|4484|1849|2635
+3|/u/amazingpikachu_38|2263||2263
+4|/u/TOP_20|2094|832|1262
+5|/u/dominodan123|187|74|113
+6|/u/TheNitromeFan|68|10|58
+7|/u/abplows|35|30|5
+8|/u/smarvin6689|28|19|9
+9|/u/QuestoGuy|27|10|17
+10|/u/davidjl123|19|6|13
+11|/u/noduorg|9|6|3
+12|/u/gordonpt8|8|2|6
+13|/u/count_worse|8|5|3
+14|/u/LeinadSpoon|5|4|1
+15|/u/artbn|4|2|2
+16|/u/TOP_6689|2|1|1
+17|/u/rideride|2|1|1
+18|/u/DemonBurritoCat|2|1|1
+19|/u/PrinceCrinkle|2||2
+20|/u/VitaminB16|2||2
+21|/u/MrBahr12|2|1|1
+22|/u/TehVulpez|1||1
+23|/u/1_Count_Per_HoC|1||1
+24|/u/cro4_chromate|1|1|
+MaybeNotWrong has achieved WRC today
+

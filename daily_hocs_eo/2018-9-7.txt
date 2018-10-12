@@ -1,0 +1,35 @@
+#Daily Hoc For 2018-9-7
+*Todays Counts: 22480*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/LeinadSpoon|5887|4958|929
+2|/u/Lonadont|5087|3697|1390
+3|/u/TOP_20|4822|2334|2488
+4|/u/amazingpikachu_38|3323||3323
+5|/u/QuestoGuy|2058|45|2013
+6|/u/dominodan123|552|17|535
+7|/u/rideride|492|19|473
+8|/u/randomusername123458|84|57|27
+9|/u/abplows|50|31|19
+10|/u/smarvin6689|24|10|14
+11|/u/artbn|17|12|5
+12|/u/MaybeNotWrong|17|12|5
+13|/u/TehVulpez|16|16|
+14|/u/davidjl123|13|11|2
+15|/u/gordonpt8|9|4|5
+16|/u/noduorg|6|2|4
+17|/u/Tranquilsunrise|5|2|3
+18|/u/DemonBurritoCat|3|1|2
+19|/u/MrBahr12|3|2|1
+20|/u/xMrlMyCckTrtBf|3|3|
+21|/u/cro4_chromate|2|1|1
+22|/u/count_worse|1|1|
+23|/u/LeinadFork|1|1|
+24|/u/Lein4You|1|1|
+25|/u/SolidGoldMagikarp|1||1
+26|/u/joao217|1|1|
+27|/u/TOP_6689|1||1
+28|/u/1_Count_Per_HoC|1|1|
+LeinadSpoon has achieved WRC today
+

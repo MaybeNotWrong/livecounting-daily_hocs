@@ -1,0 +1,39 @@
+#Daily Hoc For 2018-10-1
+*Todays Counts: 47197*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/NobodyL0vesMe|12762|6678|6084
+2|/u/MaybeNotWrong|12077|8744|3333
+3|/u/amazingpikachu_38|7043||7043
+4|/u/LeinadSpoon|3648|3264|384
+5|/u/dominodan123|3400|40|3360
+6|/u/treje|3210|2417|793
+7|/u/Lonadont|2416|1687|729
+8|/u/TOP_20|1721|156|1565
+9|/u/sakima11|460|459|1
+10|/u/noduorg|167|4|163
+11|/u/abplows|97|51|46
+12|/u/Iamspeedy36|43|24|19
+13|/u/smarvin6689|35|13|22
+14|/u/gordonpt8|27|12|15
+15|/u/piyushsharma301|18|8|10
+16|/u/LeinadFork|11|10|1
+17|/u/SolidGoldMagikarp|8|3|5
+18|/u/TOP_6689|8|5|3
+19|/u/davidjl123|8|5|3
+20|/u/count_worse|7|4|3
+21|/u/VitaminB16|7|1|6
+22|/u/amazingpiakchu_38|6||6
+23|/u/artbn|4|2|2
+24|/u/rideride|4|2|2
+25|/u/SuperBoberto64|2|2|
+26|/u/Tranquilsunrise|2|1|1
+27|/u/DemonBurritoCat|1|1|
+28|/u/MrBahr12|1||1
+29|/u/NeonL1vesMatter|1|1|
+30|/u/cro4_chromate|1||1
+31|/u/yesduorg|1||1
+32|/u/1_Count_Per_HoC|1||1
+NobodyL0vesMe has achieved WRC today
+

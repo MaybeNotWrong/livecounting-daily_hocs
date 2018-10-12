@@ -1,0 +1,37 @@
+#Daily Hoc For 2018-10-2
+*Todays Counts: 16204*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|3599||3599
+2|/u/MaybeNotWrong|3590|3538|52
+3|/u/sakima11|2151|1192|959
+4|/u/treje|1722|1319|403
+5|/u/NobodyL0vesMe|1412|13|1399
+6|/u/dominodan123|1242|763|479
+7|/u/TOP_20|1166|844|322
+8|/u/Lonadont|829|63|766
+9|/u/LeinadSpoon|299|249|50
+10|/u/abplows|46|41|5
+11|/u/VitaminB16|33|16|17
+12|/u/gordonpt8|21|14|7
+13|/u/smarvin6689|18|8|10
+14|/u/SolidGoldMagikarp|18|13|5
+15|/u/davidjl123|17|9|8
+16|/u/Iamspeedy36|9|6|3
+17|/u/noduorg|7|2|5
+18|/u/count_worse|7|1|6
+19|/u/Goomba_of_death|5|2|3
+20|/u/randomusername123458|2|2|
+21|/u/piyushsharma301|2||2
+22|/u/overturned-rock|1||1
+23|/u/DemonBurritoCat|1|1|
+24|/u/artbn|1||1
+25|/u/MrBahr12|1|1|
+26|/u/LeinadFork|1|1|
+27|/u/GarlicoinAccount|1||1
+28|/u/Tranquilsunrise|1|1|
+29|/u/1_Count_Per_HoC|1||1
+30|/u/TOP_6689|1|1|
+N/A has achieved WRC today
+

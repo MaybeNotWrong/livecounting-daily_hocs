@@ -1,0 +1,32 @@
+#Daily Hoc For 2018-9-21
+*Todays Counts: 20307*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/Lonadont|6098|4765|1333
+2|/u/MaybeNotWrong|5042|2716|2326
+3|/u/TOP_20|4135|1999|2136
+4|/u/amazingpikachu_38|2978||2978
+5|/u/LeinadSpoon|1749|503|1246
+6|/u/overturned-rock|109|37|72
+7|/u/abplows|50|49|1
+8|/u/dominodan123|41|24|17
+9|/u/QuestoGuy|24|14|10
+10|/u/DoubleTheBubbles|15|15|
+11|/u/smarvin6689|11|4|7
+12|/u/davidjl123|9|4|5
+13|/u/dgsmd|8|1|7
+14|/u/gordonpt8|7|4|3
+15|/u/VitaminB16|6|5|1
+16|/u/count_worse|6|5|1
+17|/u/MrBahr12|4|3|1
+18|/u/artbn|3|1|2
+19|/u/noduorg|3|1|2
+20|/u/DemonBurritoCat|2||2
+21|/u/Tranquilsunrise|2|2|
+22|/u/TOP_6689|2||2
+23|/u/KindaSortaNotWrong|1|1|
+24|/u/rideride|1||1
+25|/u/1_Count_Per_HoC|1||1
+Lonadont has achieved WRC today
+
