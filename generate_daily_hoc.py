@@ -209,6 +209,16 @@ def update_ga(hoc):
     config['counts'] = False
     config['000'] = False
     config['999'] = False
+def update_eo(hoc):
+    config['folder'] = 'daily_hocs_eo'
+    config['counts'] = True
+    config['even'] = True
+    config['odd'] = True
+    write_day_hoc(hoc)
+    config['folder'] = None
+    config['counts'] = False
+    config['even'] = False
+    config['odd'] = False
 
 def generate_hoc():
     livecounting.contrib.add('#Generating Daily HoC\n\nDepending on todays counts this may take a while\n\n***\n\nPlease note that the HoC will be cut off at #100 to stay within Reddits character limit')
