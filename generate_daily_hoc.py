@@ -333,6 +333,7 @@ def generate_hoc():
     update_hocs(hoc)
     update_simple(hoc)
     update_ga(hoc)
+    update_eo(hoc)
     print('Sending HoC')
     with open('./daily_hocs_simple/{}.txt'.format(hoc['date'])) as f:
         hoc_text = ''
