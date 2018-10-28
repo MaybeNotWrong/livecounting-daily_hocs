@@ -1,0 +1,53 @@
+#Daily Hoc For 2018-10-25
+*Todays Counts: 35881*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|8602||8602
+2|/u/NobodyL0vesMe|7758|2430|5328
+3|/u/ItzTaken|6379|4906|1473
+4|/u/dominodan123|5198|4611|587
+5|/u/treje|2171|1736|435
+6|/u/MaybeNotWrong|1422|832|590
+7|/u/Shado5172|1179|1043|136
+8|/u/Rajalaxo|1162|1150|12
+9|/u/TOP_20|1010|547|463
+10|/u/LeinadSpoon|269|254|15
+11|/u/SecretAsianMa|206|196|10
+12|/u/batpuppy|88|16|72
+13|/u/eddebbboi|65||65
+14|/u/abplows|64|10|54
+15|/u/alchzh|47|47|
+16|/u/NeonL1vesMatter|42|25|17
+17|/u/SolidGoldMagikarp|37|26|11
+18|/u/davidjl123|30|19|11
+19|/u/smarvin6689|28|13|15
+20|/u/rideride|22|13|9
+21|/u/gordonpt8|21|11|10
+22|/u/iwannaplay5050|11|11|
+23|/u/VitaminB16|10|10|
+24|/u/TOP_6689|10|4|6
+25|/u/ShowerMeWithAdvice|8|4|4
+26|/u/Urbul|6||6
+27|/u/Tranquilsunrise|5|4|1
+28|/u/PrisonBull|4|3|1
+29|/u/HeyStreamers|3||3
+30|/u/shhx|3||3
+31|/u/teeravj|2|1|1
+32|/u/ryedwards|2|1|1
+33|/u/sakima11|2|2|
+34|/u/ChristyNiners|2|1|1
+35|/u/LeinadFork|2|1|1
+36|/u/TheChezMaster|2||2
+37|/u/count_worse|1|1|
+38|/u/SubSmartstocks|1|1|
+39|/u/amazingpiakchu_38|1||1
+40|/u/rschaosid|1|1|
+41|/u/noduorg|1|1|
+42|/u/thephilsblogbar|1|1|
+43|/u/Kris18|1||1
+44|/u/1_Count_Per_HoC|1||1
+45|/u/MrBahr12|1|1|
+
+
+N/A has achieved WRC today.

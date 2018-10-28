@@ -1,0 +1,54 @@
+#Daily Hoc For 2018-10-26
+*Todays Counts: 29490*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/NobodyL0vesMe|5930|4201|1729
+2|/u/amazingpikachu_38|5549||5549
+3|/u/ItzTaken|5448|3280|2168
+4|/u/treje|5286|2426|2860
+5|/u/Rajalaxo|2247|1462|785
+6|/u/PrisonBull|909|30|879
+7|/u/SolidGoldMagikarp|682|656|26
+8|/u/TOP_20|464|390|74
+9|/u/dominodan123|424|394|30
+10|/u/RUN_EVENS_DUMMY|387|387|
+11|/u/USE_COMMAS_DUMMY|375|375|
+12|/u/NeonL1vesMatter|346|126|220
+13|/u/sakima11|328|323|5
+14|/u/LeinadSpoon|242|20|222
+15|/u/SecretAsianMa|211|147|64
+16|/u/Shado5172|197|179|18
+17|/u/gordonpt8|149|135|14
+18|/u/smarvin6689|86|69|17
+19|/u/abplows|54|50|4
+20|/u/MaybeNotWrong|42|17|25
+21|/u/noduorg|41|23|18
+22|/u/TheChezMaster|13|2|11
+23|/u/TOP_6689|9|5|4
+24|/u/count_worse|9|8|1
+25|/u/VitaminB16|9|3|6
+26|/u/teeravj|9|9|
+27|/u/rschaosid|8|4|4
+28|/u/batpuppy|6|4|2
+29|/u/rideride|5|3|2
+30|/u/shhx|4|1|3
+31|/u/DemonBurritoCat|3|1|2
+32|/u/LeinadFork|3|2|1
+33|/u/artbn|2|2|
+34|/u/1_Count_Per_HoC|1||1
+35|/u/jashbread|1|1|
+36|/u/blackdiamand|1||1
+37|/u/MrBahr12|1|1|
+38|/u/yakobski|1|1|
+39|/u/thatguyahor|1|1|
+40|/u/davidjl123|1|1|
+41|/u/Mr_Bonafide666|1|1|
+42|/u/cmandd|1|1|
+43|/u/luc122c|1||1
+44|/u/thephilsblogbar|1|1|
+45|/u/Chalupa_Son|1|1|
+46|/u/AeRUBIK-Cubing|1||1
+
+
+NobodyL0vesMe has achieved WRC today.
