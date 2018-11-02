@@ -1,12 +1,12 @@
 #Daily Hoc For 2018-11-1
-*Todays Counts: 27018*
+*Todays Counts: 27010*
 
 \#|Username|No. of Counts|Gets|Assists
 -|-|-|-|-
-1|/u/ItzTaken|5032|8|2
-2|/u/amazingpikachu_38|4594||10
-3|/u/treje|4403|4|3
-4|/u/NobodyL0vesMe|4403|3|2
+1|/u/ItzTaken|5030|8|2
+2|/u/amazingpikachu_38|4589||10
+3|/u/NobodyL0vesMe|4403|3|2
+4|/u/treje|4402|4|3
 5|/u/dominodan123|2094|1|1
 6|/u/Lonadont|1705|2|4
 7|/u/LeinadSpoon|1323||3
@@ -43,6 +43,5 @@
 38|/u/Moarbadass|1||
 39|/u/LeinadLadle|1||
 40|/u/1_Count_Per_HoC|1||
+N/A has achieved WRC today
 
-
-ItzTaken has achieved WRC today.
