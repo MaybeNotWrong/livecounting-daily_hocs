@@ -1,0 +1,51 @@
+#Daily Hoc For 2018-11-2
+*Todays Counts: 17341*
+
+ # |             User             | Counts | 000 | 333 | 666 | 999 | NotD | Drome
+---|------------------------------|--------|-----|-----|-----|-----|------|------
+  1|             amazingpikachu_38|   4986 |     |  10 |     |   9 |      |   1 
+  2|                      ItzTaken|   3814 |   9 |     |  10 |     |    7 |     
+  3|                       noduorg|   1975 |   4 |   3 |   4 |   2 |      |     
+  4|                 NobodyL0vesMe|   1910 |     |     |   2 |   3 |    2 |     
+  5|                      Lonadont|   1186 |     |     |     |   3 |    3 |     
+  6|                         treje|   1003 |   2 |   1 |   1 |     |    2 |   1 
+  7|                      Rajalaxo|    630 |   1 |   1 |   1 |   1 |      |     
+  8|                UnimpairedDust|    614 |   1 |   2 |     |     |      |     
+  9|                        TOP_20|    566 |     |     |     |     |    2 |     
+ 10|                   LeinadSpoon|    229 |     |     |     |     |    1 |     
+ 11|                       abplows|     76 |     |     |     |     |      |     
+ 12|                    PrisonBull|     72 |     |     |     |     |      |     
+ 13|                  dominodan123|     36 |     |     |     |     |      |     
+ 14|                 MaybeNotWrong|     31 |     |     |     |     |      |     
+ 15|                   smarvin6689|     28 |     |     |     |     |      |     
+ 16|                    davidjl123|     25 |     |     |     |     |      |     
+ 17|             SolidGoldMagikarp|     21 |     |     |     |     |      |     
+ 18|                     gordonpt8|     20 |     |     |     |     |      |     
+ 19|               NeonL1vesMatter|     18 |   1 |     |     |     |      |     
+ 20|                       teeravj|     16 |     |     |     |     |      |     
+ 21|                    VitaminB16|     15 |     |     |     |     |      |     
+ 22|             insertnamehere137|     12 |     |     |     |     |      |     
+ 23|                      TOP_6689|      8 |     |     |     |     |      |     
+ 24|           just_another_shadow|      7 |     |     |     |     |      |     
+ 25|                   count_worse|      7 |     |     |     |     |      |     
+ 26|                 SecretAsianMa|      6 |     |     |     |     |      |     
+ 27|                       mendel3|      6 |     |     |     |     |      |     
+ 28|                 platinumteeth|      3 |     |     |     |     |      |     
+ 29|              roll_credits_man|      2 |     |     |     |     |      |     
+ 30|                      sakima11|      2 |     |     |     |     |      |     
+ 31|                    Moarbadass|      2 |     |     |     |     |      |     
+ 32|                    LeinadFork|      2 |     |     |     |     |      |     
+ 33|          CorrectBatteryStable|      2 |     |     |     |     |      |     
+ 34|                       Flancor|      2 |     |     |     |     |      |     
+ 35|          randomusername123458|      1 |     |     |     |     |      |     
+ 36|             QuestionableTater|      1 |     |     |     |     |      |     
+ 37|                  blackdiamand|      1 |     |     |     |     |      |     
+ 38|                      MrBahr12|      1 |     |     |     |     |      |     
+ 39|                  VenomousNoob|      1 |     |     |     |     |      |     
+ 40|               thephilsblogbar|      1 |     |     |     |     |      |     
+ 41|               1_Count_Per_HoC|      1 |     |     |     |     |      |     
+ 42|                  -NoSaveData-|      1 |     |     |     |     |      |     
+ 43|                      rideride|      1 |     |     |     |     |      |     
+N/A has achieved WRC today
+
+Debug: First message: {'body': '10,606,666', 'name': 'LiveUpdate_c50600d6-de53-11e8-a485-0e4723589e04', 'mobile_embeds': [], 'author': 'ItzTaken', 'embeds': [], 'created': 1541160000.0, 'created_utc': 1541131200.0, 'body_html': '<div class="md"><p>10,606,666</p>\n</div>', 'stricken': False, 'id': 'c50600d6-de53-11e8-a485-0e4723589e04'}
