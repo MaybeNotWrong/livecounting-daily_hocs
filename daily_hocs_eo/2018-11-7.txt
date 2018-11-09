@@ -1,0 +1,50 @@
+#Daily Hoc For 2018-11-7
+*Todays Counts: 36812*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/noduorg|10046|7396|2650
+2|/u/dominodan123|7402|1493|5909
+3|/u/ItzTaken|7255|6342|913
+4|/u/amazingpikachu_38|6634||6634
+5|/u/Lonadont|1624|1281|343
+6|/u/MaybeNotWrong|1371|1130|241
+7|/u/treje|1295|439|856
+8|/u/Rajalaxo|392|9|383
+9|/u/JustSomeSmallQs|184||184
+10|/u/SolidGoldMagikarp|134|84|50
+11|/u/smarvin6689|101|74|27
+12|/u/----RealCounterHere|80||80
+13|/u/rideride|37|3|34
+14|/u/akronz|36|32|4
+15|/u/IceGear55|35|22|13
+16|/u/TOP_20|24|13|11
+17|/u/NobodyL0vesMe|21|10|11
+18|/u/davidjl123|18|8|10
+19|/u/TOP_6689|17|10|7
+20|/u/VitaminB16|15|10|5
+21|/u/gordonpt8|15|4|11
+22|/u/abplows|11|7|4
+23|/u/Moarbadass|10|7|3
+24|/u/MrBahr12|9|5|4
+25|/u/teeravj|7|4|3
+26|/u/count_worse|5|2|3
+27|/u/batpuppy|4|1|3
+28|/u/LeinadSpoon|4|1|3
+29|/u/artbn|3|3|
+30|/u/TehVulpez|3||3
+31|/u/Canebrake247|3|3|
+32|/u/sakima11|3|2|1
+33|/u/luc122c|2|2|
+34|/u/llamasR5life|2||2
+35|/u/shhx|2|2|
+36|/u/RestlesslyLazy|2||2
+37|/u/yesduorg|1||1
+38|/u/SecretAsianMa|1|1|
+39|/u/PrisonBull|1|1|
+40|/u/KingJacobZuma|1||1
+41|/u/DemonBurritoCat|1|1|
+42|/u/1_Count_Per_HoC|1||1
+
+
+noduorg has achieved WRC today.
