@@ -1,0 +1,42 @@
+#Daily Hoc For 2018-11-16
+*Todays Counts: 30801*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/MaybeNotWrong|8352|6501|1851
+2|/u/amazingpikachu_38|7415||7415
+3|/u/ItzTaken|6194|5797|397
+4|/u/noduorg|6055|1676|4379
+5|/u/Lonadont|1124|492|632
+6|/u/Urbul|461|197|264
+7|/u/Iluvdubedgedsword|459|266|193
+8|/u/SecretAsianMa|164|95|69
+9|/u/Rajalaxo|144|140|4
+10|/u/NobodyL0vesMe|92|71|21
+11|/u/gordonpt8|54|8|46
+12|/u/dominodan123|50|32|18
+13|/u/321nadonimod|41|4|37
+14|/u/treje|28|17|11
+15|/u/smarvin6689|26|9|17
+16|/u/Chalupa_Grandpa|18|18|
+17|/u/davidjl123|18|12|6
+18|/u/SolidGoldMagikarp|17|9|8
+19|/u/teeravj|15|12|3
+20|/u/artbn|14|2|12
+21|/u/abplows|12|6|6
+22|/u/LeinadSpoon|11|6|5
+23|/u/TOP_6689|9|7|2
+24|/u/VitaminB16|8|4|4
+25|/u/count_worse|6|6|
+26|/u/rideride|3|3|
+27|/u/Epndly|2|2|
+28|/u/sakima11|2|1|1
+29|/u/absolutelynotduorg|2|1|1
+30|/u/MrBahr12|1||1
+31|/u/shhx|1||1
+32|/u/yesduorg|1|1|
+33|/u/o99o99|1|1|
+34|/u/1_Count_Per_HoC|1||1
+
+
+MaybeNotWrong has achieved WRC today.
