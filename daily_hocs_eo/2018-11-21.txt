@@ -1,0 +1,37 @@
+#Daily Hoc For 2018-11-21
+*Todays Counts: 57593*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|18412||18412
+2|/u/NobodyL0vesMe|10229|7962|2267
+3|/u/Lonadont|10065|6723|3342
+4|/u/ItzTaken|8114|5872|2242
+5|/u/noduorg|5030|4368|662
+6|/u/treje|2595|1682|913
+7|/u/LeinadSpoon|1881|1219|662
+8|/u/TOP_20|521|315|206
+9|/u/SolidGoldMagikarp|410|404|6
+10|/u/Ponchinizo|107|107|
+11|/u/smarvin6689|58|30|28
+12|/u/davidjl123|39|24|15
+13|/u/gordonpt8|30|20|10
+14|/u/dominodan123|29|19|10
+15|/u/MaybeNotWrong|22|10|12
+16|/u/luc122c|10|6|4
+17|/u/TOP_6689|7|5|2
+18|/u/artbn|7|4|3
+19|/u/abplows|6|5|1
+20|/u/Rajalaxo|5|3|2
+21|/u/rschaosid|3|1|2
+22|/u/MrBahr12|3|2|1
+23|/u/VitaminB16|3||3
+24|/u/count_worse|2|1|1
+25|/u/DemonBurritoCat|1||1
+26|/u/absolutelynotduorg|1|1|
+27|/u/yesduorg|1|1|
+28|/u/dokbanks|1||1
+29|/u/OliverAnthony2205|1||1
+
+
+N/A has achieved WRC today.
