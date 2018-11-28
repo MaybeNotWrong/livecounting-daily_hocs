@@ -1,0 +1,37 @@
+#Daily Hoc For 2018-11-24
+*Todays Counts: 68536*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/NobodyL0vesMe|17018|5677|11341
+2|/u/amazingpikachu_38|16533||16533
+3|/u/ItzTaken|15286|14046|1240
+4|/u/MaybeNotWrong|6089|4550|1539
+5|/u/Lonadont|5286|3529|1757
+6|/u/noduorg|5233|4494|739
+7|/u/treje|2320|1355|965
+8|/u/Urbul|400|393|7
+9|/u/smarvin6689|88|54|34
+10|/u/davidjl123|72|42|30
+11|/u/TOP_20|49|32|17
+12|/u/gordonpt8|33|17|16
+13|/u/dominodan123|32|18|14
+14|/u/Rajalaxo|27|16|11
+15|/u/VitaminB16|20|13|7
+16|/u/SolidGoldMagikarp|16|8|8
+17|/u/TOP_6689|10|9|1
+18|/u/Chalupa_Guy|5|4|1
+19|/u/abplows|4|1|3
+20|/u/rideride|4|3|1
+21|/u/artbn|2|1|1
+22|/u/MrBahr12|2|2|
+23|/u/DemonBurritoCat|1|1|
+24|/u/SecretAsianMa|1|1|
+25|/u/yesduorg|1||1
+26|/u/LeinadSpoon|1||1
+27|/u/iwannaplay5050|1|1|
+28|/u/Tranquilsunrise|1||1
+29|/u/1_Count_Per_HoC|1||1
+
+
+NobodyL0vesMe has achieved WRC today.
