@@ -1,0 +1,37 @@
+#Daily Hoc For 2018-12-11
+*Todays Counts: 33854*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/ItzTaken|10345|9240|1105
+2|/u/amazingpikachu_38|8574|1|8573
+3|/u/noduorg|5086|1781|3305
+4|/u/LeinadSpoon|3365|1946|1419
+5|/u/NobodyL0vesMe|3075|2635|440
+6|/u/treje|2713|762|1951
+7|/u/TOP_20|340|330|10
+8|/u/NeonL1vesMatter|110|110|
+9|/u/Lonadont|47|20|27
+10|/u/smarvin6689|41|13|28
+11|/u/dominodan123|34|17|17
+12|/u/TOP_6689|18|14|4
+13|/u/gordonpt8|15|10|5
+14|/u/davidjl123|13|5|8
+15|/u/bachleon|12||12
+16|/u/-Glitched-|10|3|7
+17|/u/SolidGoldMagikarp|9|5|4
+18|/u/VitaminB16|8|6|2
+19|/u/Tranquilsunrise|8|5|3
+20|/u/MaybeNotWrong|7|3|4
+21|/u/yesduorg|6|6|
+22|/u/abplows|5|3|2
+23|/u/Chalupa_Dab|3|3|
+24|/u/Rajalaxo|3|2|1
+25|/u/Urbul|2||2
+26|/u/artbn|2|2|
+27|/u/cro4_chromate|1|1|
+28|/u/rschaosid|1|1|
+29|/u/MrBahr12|1||1
+
+
+N/A has achieved WRC today.
