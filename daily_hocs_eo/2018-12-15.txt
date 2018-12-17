@@ -1,0 +1,39 @@
+#Daily Hoc For 2018-12-15
+*Todays Counts: 33038*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|11374||11374
+2|/u/ItzTaken|8022|6925|1097
+3|/u/noduorg|5076|4471|605
+4|/u/NobodyL0vesMe|3164|2390|774
+5|/u/MaybeNotWrong|2341|783|1558
+6|/u/treje|870|301|569
+7|/u/randomusername123458|520|505|15
+8|/u/Chalupa_Grandpa|471|468|3
+9|/u/Lonadont|327|191|136
+10|/u/TOP_20|286|125|161
+11|/u/dominodan123|205|187|18
+12|/u/smarvin6689|75|14|61
+13|/u/The_Necromancer10|69||69
+14|/u/TOP_6689|60|22|38
+15|/u/abplows|53|47|6
+16|/u/NeonL1vesMatter|25|21|4
+17|/u/LeinadSpoon|23|13|10
+18|/u/gordonpt8|21|14|7
+19|/u/PaleRepresentative|17|17|
+20|/u/davidjl123|10|6|4
+21|/u/artbn|5|4|1
+22|/u/VitaminB16|5|1|4
+23|/u/SolidGoldMagikarp|5|5|
+24|/u/Rajalaxo|3|1|2
+25|/u/iwannaplay5050|3|2|1
+26|/u/count_worse|2|1|1
+27|/u/yesduorg|2|1|1
+28|/u/DemonBurritoCat|1||1
+29|/u/MrBahr12|1||1
+30|/u/parker_cube|1|1|
+31|/u/Antichess|1||1
+
+
+N/A has achieved WRC today.
