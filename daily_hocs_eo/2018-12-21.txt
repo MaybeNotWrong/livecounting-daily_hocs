@@ -1,0 +1,54 @@
+#Daily Hoc For 2018-12-21
+*Todays Counts: 31068*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/ItzTaken|5333|4058|1275
+2|/u/Lonadont|5261|1939|3322
+3|/u/noduorg|5077|3744|1333
+4|/u/MaybeNotWrong|4402|1276|3126
+5|/u/amazingpikachu_38|3528||3528
+6|/u/treje|3490|2257|1233
+7|/u/NobodyL0vesMe|1343|1117|226
+8|/u/TOP_20|1154|418|736
+9|/u/PaleRepresentative|743|336|407
+10|/u/dominodan123|245|42|203
+11|/u/Chalupa_Brother|111|110|1
+12|/u/TOP_6689|72|60|12
+13|/u/abplows|59|55|4
+14|/u/smarvin6689|48|22|26
+15|/u/davidjl123|38|25|13
+16|/u/LeinadSpoon|30|13|17
+17|/u/Kris18|15|5|10
+18|/u/gordonpt8|14|8|6
+19|/u/rideride|13|6|7
+20|/u/Rajalaxo|9|2|7
+21|/u/SubSmartstocks|9|2|7
+22|/u/VitaminB16|8|3|5
+23|/u/Leinadont|8|8|
+24|/u/NeonL1vesMatter|7|5|2
+25|/u/nodfu|6|4|2
+26|/u/MrBahr12|5|3|2
+27|/u/count_worse|5|3|2
+28|/u/SolidGoldMagikarp|5|1|4
+29|/u/LeinadFork|4|2|2
+30|/u/artbn|3|2|1
+31|/u/Tranquilsunrise|3|1|2
+32|/u/Chalupa_Son|3|2|1
+33|/u/williswillardthe3rd|2||2
+34|/u/rschaosid|2|1|1
+35|/u/bfp1104|2|1|1
+36|/u/DemonBurritoCat|1|1|
+37|/u/Leinad6689|1||1
+38|/u/LeinadSpatula|1||1
+39|/u/Lein4You|1|1|
+40|/u/cro4_chromate|1||1
+41|/u/yesduorg|1||1
+42|/u/TOP_501|1||1
+43|/u/LeinadLadle|1|1|
+44|/u/1_Count_Per_HoC|1|1|
+45|/u/LeinadMachete|1|1|
+46|/u/LeinadChopsticks|1|1|
+
+
+N/A has achieved WRC today.
