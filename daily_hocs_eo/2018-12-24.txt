@@ -1,0 +1,41 @@
+#Daily Hoc For 2018-12-24
+*Todays Counts: 47549*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/treje|12826|7465|5361
+2|/u/ItzTaken|11515|8919|2596
+3|/u/MaybeNotWrong|6580|2237|4343
+4|/u/amazingpikachu_38|6225|1|6224
+5|/u/noduorg|5076|2979|2097
+6|/u/Lonadont|2025|688|1337
+7|/u/TOP_20|1079|777|302
+8|/u/NobodyL0vesMe|1054|25|1029
+9|/u/PaleRepresentative|460|171|289
+10|/u/DemonBurritoCat|281|269|12
+11|/u/DT_Exsifor|93|64|29
+12|/u/VitaminB16|83|24|59
+13|/u/smarvin6689|64|32|32
+14|/u/davidjl123|48|31|17
+15|/u/yesduorg|35|19|16
+16|/u/dominodan123|24|16|8
+17|/u/TOP_6689|20|13|7
+18|/u/gordonpt8|15|11|4
+19|/u/abplows|12|7|5
+20|/u/rideride|8|6|2
+21|/u/artbn|6|4|2
+22|/u/count_worse|4|3|1
+23|/u/Chalupa_Brother|3|1|2
+24|/u/MrBahr12|2||2
+25|/u/Tranquilsunrise|2|1|1
+26|/u/Iluvdubedgedsword|2|2|
+27|/u/Rajalaxo|1|1|
+28|/u/rschaosid|1||1
+29|/u/NeonL1vesMatter|1||1
+30|/u/LeinadSpoon|1||1
+31|/u/parker_cube|1|1|
+32|/u/SolidGoldMagikarp|1|1|
+33|/u/wellmade-mango|1|1|
+
+
+treje has achieved WRC today.

@@ -1,0 +1,38 @@
+#Daily Hoc For 2018-12-25
+*Todays Counts: 29989*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/ItzTaken|7982|7345|637
+2|/u/NobodyL0vesMe|5111|933|4178
+3|/u/noduorg|5076|2520|2556
+4|/u/MaybeNotWrong|3615|938|2677
+5|/u/treje|3441|2031|1410
+6|/u/amazingpikachu_38|3017||3017
+7|/u/TOP_6689|1118|831|287
+8|/u/Lonadont|221|209|12
+9|/u/yesduorg|143|4|139
+10|/u/smarvin6689|87|56|31
+11|/u/abplows|63|60|3
+12|/u/davidjl123|18|6|12
+13|/u/Chalupa_Grandpa|16|9|7
+14|/u/dominodan123|13|11|2
+15|/u/gordonpt8|13|6|7
+16|/u/NeonL1vesMatter|11|6|5
+17|/u/Rajalaxo|11|3|8
+18|/u/VitaminB16|8|5|3
+19|/u/TOP_20|7|2|5
+20|/u/artbn|4|4|
+21|/u/SolidGoldMagikarp|3|2|1
+22|/u/Iluvdubedgedsword|2|2|
+23|/u/supermario1232940|2|2|
+24|/u/LeinadSpoon|1|1|
+25|/u/DemonBurritoCat|1|1|
+26|/u/MrBahr12|1||1
+27|/u/cro4_chromate|1|1|
+28|/u/co3_carbonate|1|1|
+29|/u/Tranquilsunrise|1|1|
+30|/u/rschaosid|1|1|
+
+
+ItzTaken has achieved WRC today.
