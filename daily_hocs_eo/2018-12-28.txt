@@ -1,0 +1,51 @@
+#Daily Hoc For 2018-12-28
+*Todays Counts: 59531*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/MaybeNotWrong|16908|12172|4736
+2|/u/NobodyL0vesMe|14236|5726|8510
+3|/u/treje|5632|1255|4377
+4|/u/Lonadont|5077|3406|1671
+5|/u/yesduorg|5076|2206|2870
+6|/u/noduorg|5076|466|4610
+7|/u/ItzTaken|3037|2965|72
+8|/u/amazingpikachu_38|1797|1|1796
+9|/u/TOP_20|773|389|384
+10|/u/PaleRepresentative|556|505|51
+11|/u/DemonBurritoCat|433|432|1
+12|/u/MaybeNotSlow|408|1|407
+13|/u/Tranquilsunrise|141|13|128
+14|/u/VitaminB16|47|22|25
+15|/u/andrewtheredditor|44|18|26
+16|/u/smarvin6689|36|20|16
+17|/u/davidjl123|29|16|13
+18|/u/Iamspeedy36|26|19|7
+19|/u/smarving6689|26|25|1
+20|/u/absolutelynotduorg|23|23|
+21|/u/dominodan123|21|11|10
+22|/u/TOP_6689|17|8|9
+23|/u/NeonL1vesMatter|13|6|7
+24|/u/C2H5OH_ethanol|12|12|
+25|/u/gordonpt8|12|7|5
+26|/u/count_worse|11|4|7
+27|/u/AlienApricot|10|4|6
+28|/u/PaleSenator|8|5|3
+29|/u/Rajalaxo|7|4|3
+30|/u/Chalupa_Grandpa|6|4|2
+31|/u/rideride|6|2|4
+32|/u/trejes_independence|4|4|
+33|/u/cro4_chromate|4|1|3
+34|/u/artbn|3|2|1
+35|/u/LCsTrollPatrol|3||3
+36|/u/c2h3o2_acetate|3||3
+37|/u/SubSmartstocks|2|2|
+38|/u/SolidGoldMagikarp|2|1|1
+39|/u/piyushsharma301|2|2|
+40|/u/rschaosid|1|1|
+41|/u/MrBahr12|1||1
+42|/u/wademcgillis|1||1
+43|/u/ethovoid|1|1|
+
+
+MaybeNotWrong has achieved WRC today.

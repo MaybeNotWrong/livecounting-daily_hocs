@@ -1,0 +1,52 @@
+#Daily Hoc For 2018-12-30
+*Todays Counts: 28653*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|6845||6845
+2|/u/noduorg|5117|2445|2672
+3|/u/MaybeNotWrong|4336|2939|1397
+4|/u/NobodyL0vesMe|3520|2150|1370
+5|/u/ItzTaken|2838|2586|252
+6|/u/PaleRepresentative|1592|1061|531
+7|/u/abplows|1150|546|604
+8|/u/Lonadont|1024|743|281
+9|/u/davidjl123|1023|995|28
+10|/u/TOP_20|360|294|66
+11|/u/andrewtheredditor|215|142|73
+12|/u/CaesarCzechReborn|162|161|1
+13|/u/treje|148|44|104
+14|/u/LeinadSpoon|82|78|4
+15|/u/yesduorg|55|48|7
+16|/u/Chalupa_Son|33|3|30
+17|/u/smarvin6689|29|12|17
+18|/u/VitaminB16|25|16|9
+19|/u/dominodan123|16|10|6
+20|/u/TOP_6689|10|7|3
+21|/u/rideride|9|4|5
+22|/u/gordonpt8|7|6|1
+23|/u/DT_Exsifor|5|4|1
+24|/u/SolidGoldMagikarp|5|4|1
+25|/u/chalupatheredditor|5|2|3
+26|/u/buniws|4|3|1
+27|/u/Rajalaxo|4|2|2
+28|/u/o99o99|4|1|3
+29|/u/rschaosid|4|1|3
+30|/u/Lil_SpazJoekp|3|2|1
+31|/u/Chalupa_Brother|3|3|
+32|/u/SubSmartstocks|3|3|
+33|/u/trejes_independence|2|2|
+34|/u/MrBahr12|2||2
+35|/u/Chalupa_Uncle|2||2
+36|/u/artbn|2||2
+37|/u/Tranquilsunrise|2||2
+38|/u/chris97ong|1|1|
+39|/u/Cctheperson|1|1|
+40|/u/MaybeNotAnAlt|1||1
+41|/u/cro4_chromate|1||1
+42|/u/1_Count_Per_HoC|1|1|
+43|/u/NeonL1vesMatter|1|1|
+44|/u/TehVulpez|1||1
+
+
+N/A has achieved WRC today.
