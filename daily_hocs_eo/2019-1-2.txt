@@ -1,0 +1,43 @@
+#Daily Hoc For 2019-1-2
+*Todays Counts: 35360*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/MaybeNotWrong|11849|4239|7610
+2|/u/NobodyL0vesMe|7451|5497|1954
+3|/u/noduorg|5809|2997|2812
+4|/u/ItzTaken|5181|4021|1160
+5|/u/amazingpikachu_38|2761||2761
+6|/u/PaleRepresentative|1059|537|522
+7|/u/treje|580|41|539
+8|/u/andrewtheredditor|278|108|170
+9|/u/dominodan123|73|39|34
+10|/u/rideride|52|40|12
+11|/u/abplows|44|38|6
+12|/u/VitaminB16|36|18|18
+13|/u/smarvin6689|30|12|18
+14|/u/davidjl123|25|17|8
+15|/u/DT_Exsifor|22|5|17
+16|/u/Poolie32006|18|17|1
+17|/u/count_worse|17|6|11
+18|/u/TOP_6689|12|9|3
+19|/u/TOP_20|11|4|7
+20|/u/gordonpt8|10|7|3
+21|/u/Tranquilsunrise|9|4|5
+22|/u/Iamspeedy36|6|6|
+23|/u/username111112222233|4|3|1
+24|/u/SolidGoldMagikarp|4|4|
+25|/u/Chalupa_Brother|3|3|
+26|/u/SubSmartstocks|3|1|2
+27|/u/Lonadont|2||2
+28|/u/Rajalaxo|2|2|
+29|/u/Chalupa_Grandpa|2||2
+30|/u/LeinadSpoon|2|1|1
+31|/u/artbn|1||1
+32|/u/yesduorg|1|1|
+33|/u/cro4_chromate|1|1|
+34|/u/MrBahr12|1|1|
+35|/u/trejes_independence|1|1|
+
+
+MaybeNotWrong has achieved WRC today.
