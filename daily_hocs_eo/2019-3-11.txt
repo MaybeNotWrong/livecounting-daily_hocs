@@ -1,5 +1,5 @@
 #Daily HoC For 2019-3-11
-*Todays Counts: 16485*
+*Todays Counts: 16487*
 
 \#|Username|No. of Counts|Evens|Odds
 -|-|-|-|-
@@ -10,7 +10,7 @@
 5|/u/LeinadSpoon|978|7|971
 6|/u/Iluvdubedgedsword|298|124|174
 7|/u/NikinCZ|286|248|38
-8|/u/treje|194|21|173
+8|/u/treje|195|21|174
 9|/u/TOP_20|140|19|121
 10|/u/Rajalaxo|122|92|30
 11|/u/SecretAsianMa|112|1|111
@@ -31,10 +31,10 @@
 26|/u/artbn|6|3|3
 27|/u/Antichess|6|2|4
 28|/u/SubSmartstocks|5|4|1
-29|/u/amazingpikachu_38|5||5
-30|/u/TOP_6689|5|3|2
-31|/u/NeodymiumL1vesMatter|5|2|3
-32|/u/VitaminB16|4|3|1
+29|/u/VitaminB16|5|4|1
+30|/u/amazingpikachu_38|5||5
+31|/u/TOP_6689|5|3|2
+32|/u/NeodymiumL1vesMatter|5|2|3
 33|/u/gordonpt8|4|2|2
 34|/u/MrBahr12|2|2|
 35|/u/rideride|1||1

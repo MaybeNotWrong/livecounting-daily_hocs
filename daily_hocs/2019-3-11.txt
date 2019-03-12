@@ -1,5 +1,5 @@
 #Daily HoC For 2019-3-11
-*Todays Counts: 16485*
+*Todays Counts: 16487*
 
 \#|Username|No. of Counts|Gets|Assists|666|333|NotD|Drome
 -|-|-|-|-|-|-|-|-
@@ -10,7 +10,7 @@
 5|/u/LeinadSpoon|978||2||2||
 6|/u/Iluvdubedgedsword|298||||||
 7|/u/NikinCZ|286|||1|||
-8|/u/treje|194||||||
+8|/u/treje|195||||||
 9|/u/TOP_20|140||||1||
 10|/u/Rajalaxo|122||||||
 11|/u/SecretAsianMa|112||||1||
@@ -31,10 +31,10 @@
 26|/u/artbn|6||||||
 27|/u/Antichess|6||||||
 28|/u/SubSmartstocks|5||||||
-29|/u/amazingpikachu_38|5||||||
-30|/u/TOP_6689|5||||||
-31|/u/NeodymiumL1vesMatter|5||||||
-32|/u/VitaminB16|4||||||
+29|/u/VitaminB16|5||||||
+30|/u/amazingpikachu_38|5||||||
+31|/u/TOP_6689|5||||||
+32|/u/NeodymiumL1vesMatter|5||||||
 33|/u/gordonpt8|4||||||
 34|/u/MrBahr12|2||||||
 35|/u/rideride|1||||||
