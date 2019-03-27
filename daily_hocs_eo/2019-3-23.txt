@@ -1,0 +1,42 @@
+#Daily HoC For 2019-3-23
+*Todays Counts: 8086*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/noduorg|2005|971|1034
+2|/u/The_Necromancer10|1248|957|291
+3|/u/dominodan123|920|722|198
+4|/u/TOP_20|866|443|423
+5|/u/amazingpikachu_38|690||690
+6|/u/ItzTaken|569|562|7
+7|/u/Lonadont|415|105|310
+8|/u/treje|392|81|311
+9|/u/NikinCZ|246|5|241
+10|/u/LeinadSpoon|240|5|235
+11|/u/NeonL1vesMatter|126|1|125
+12|/u/PaleRepresentative|115|68|47
+13|/u/Iluvdubedgedsword|57|3|54
+14|/u/rideride|46|37|9
+15|/u/NobodyL0vesMe|44|25|19
+16|/u/smarvin6689|31|17|14
+17|/u/TOP_6689|19|9|10
+18|/u/MaybeNotWrong|18|12|6
+19|/u/davidjl123|5|2|3
+20|/u/VitaminB16|4|2|2
+21|/u/gordonpt8|4|3|1
+22|/u/SubSmartstocks|3||3
+23|/u/LonardoDaVinci|3|1|2
+24|/u/abplows|3||3
+25|/u/LeinadFork|3|1|2
+26|/u/NeodymiumL1vesMatter|3|1|2
+27|/u/Chalupa_Grandpa|2|2|
+28|/u/overturned-rock|2|2|
+29|/u/andrewtheredditor|2|1|1
+30|/u/rschaosid|1|1|
+31|/u/Rajalaxo|1|1|
+32|/u/MrBahr12|1|1|
+33|/u/1_Count_Per_HoC|1||1
+34|/u/Tranquilsunrise|1|1|
+
+
+noduorg has achieved WRC today.
