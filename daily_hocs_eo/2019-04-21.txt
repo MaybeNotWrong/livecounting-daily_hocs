@@ -1,0 +1,46 @@
+#Daily HoC For 2019-04-21
+*Todays Counts: 17523*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/NikinCZ|3685|3222|463
+2|/u/noduorg|3560|1375|2185
+3|/u/TOP_20|3144|1938|1206
+4|/u/treje|1569|557|1012
+5|/u/Lonadont|1493|703|790
+6|/u/amazingpikachu_38|1463||1463
+7|/u/MaybeNotWrong|726|146|580
+8|/u/MrUnderdawg|677|483|194
+9|/u/andrewtheredditor|348|178|170
+10|/u/Antichess|289|1|288
+11|/u/rideride|272|29|243
+12|/u/PaleRepresentative|64|29|35
+13|/u/Chalupa_Grandpa|41|8|33
+14|/u/dominodan123|34|22|12
+15|/u/nite_hun|17||17
+16|/u/PrinceCrinkle|17|12|5
+17|/u/smarvin6689|15|6|9
+18|/u/LeinadSpoon|15|4|11
+19|/u/davidjl123|14|5|9
+20|/u/TOP_6689|13|9|4
+21|/u/ItzTaken|12|3|9
+22|/u/VitaminB16|12|6|6
+23|/u/NeodymiumL1vesMatter|7|2|5
+24|/u/rschaosid|6|4|2
+25|/u/SsPincus|5|3|2
+26|/u/PostTheDamn887|5|3|2
+27|/u/LeinadFork|3|1|2
+28|/u/abplows|3|3|
+29|/u/NeonL1vesMatter|2||2
+30|/u/MrBahr12|2||2
+31|/u/DemonBurritoCat|2|1|1
+32|/u/gordonpt8|2|1|1
+33|/u/artbn|1|1|
+34|/u/yesduorg|1||1
+35|/u/Rajalaxo|1|1|
+36|/u/EVOSexyBeast|1|1|
+37|/u/Kris18|1|1|
+38|/u/1_Count_Per_HoC|1|1|
+
+
+N/A has achieved WRC today.
