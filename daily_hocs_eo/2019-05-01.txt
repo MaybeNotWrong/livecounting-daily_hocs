@@ -1,0 +1,55 @@
+#Daily HoC For 2019-05-01
+*Todays Counts: 4151*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/noduorg|1106|760|346
+2|/u/NikinCZ|637|359|278
+3|/u/amazingpikachu_38|621||621
+4|/u/TOP_20|504|297|207
+5|/u/andrewtheredditor|305|131|174
+6|/u/Antichess|264|110|154
+7|/u/MrUnderdawg|262|143|119
+8|/u/MaybeNotWrong|82|46|36
+9|/u/dominodan123|50|29|21
+10|/u/Iluvdubedgedsword|48|46|2
+11|/u/Lonadont|48|23|25
+12|/u/ItzTaken|43|29|14
+13|/u/TehVulpez|24|9|15
+14|/u/PaleRepresentative|17|12|5
+15|/u/UltraPlayGaming|13|13|
+16|/u/Chalupa_Grandpa|12|5|7
+17|/u/Beor_The_Old|11|2|9
+18|/u/acacacacacacacacaca|11|6|5
+19|/u/ElliottB1|10|4|6
+20|/u/smarvin6689|10|5|5
+21|/u/4BB4|8|1|7
+22|/u/davidjl123|7|4|3
+23|/u/LeinadSpoon|7|3|4
+24|/u/B77B|6|4|2
+25|/u/abplows|5|3|2
+26|/u/Rajalaxo|4|4|
+27|/u/rschaosid|4|3|1
+28|/u/mdbellott|3|1|2
+29|/u/jaja_dan|3|3|
+30|/u/TOP_6689|3|3|
+31|/u/gordonpt8|2|2|
+32|/u/treje|2|1|1
+33|/u/SeasaltinePeach|2|2|
+34|/u/artbn|2|1|1
+35|/u/VitaminB16|2|1|1
+36|/u/Tranquilsunrise|2|1|1
+37|/u/Typat|1|1|
+38|/u/LeinadFork|1||1
+39|/u/derfderf00|1|1|
+40|/u/NeodymiumL1vesMatter|1|1|
+41|/u/MrBahr12|1|1|
+42|/u/luc122c|1|1|
+43|/u/SsPincus|1|1|
+44|/u/666sinner666|1|1|
+45|/u/The_Shoe_Is_Here|1|1|
+46|/u/1_Count_Per_HoC|1||1
+47|/u/cro4_chromate|1|1|
+
+
+N/A has achieved WRC today.

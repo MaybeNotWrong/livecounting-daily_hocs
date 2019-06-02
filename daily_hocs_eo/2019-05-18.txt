@@ -1,0 +1,43 @@
+#Daily HoC For 2019-05-18
+*Todays Counts: 14940*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/PaleRepresentative|4984|3185|1799
+2|/u/parker_cube|2910|1691|1219
+3|/u/amazingpikachu_38|2385||2385
+4|/u/noduorg|1675|180|1495
+5|/u/Lonadont|1358|1331|27
+6|/u/MaybeNotWrong|453|246|207
+7|/u/Urbul|279|279|
+8|/u/TOP_20|270|156|114
+9|/u/Antichess|138|86|52
+10|/u/TehVulpez|123|90|33
+11|/u/NikinCZ|88|79|9
+12|/u/basskro|84|52|32
+13|/u/andrewtheredditor|54|27|27
+14|/u/dominodan123|18|8|10
+15|/u/MrUnderdawg|15|7|8
+16|/u/smarvin6689|15|2|13
+17|/u/SsPincus|12|9|3
+18|/u/TOP_6689|12|9|3
+19|/u/rschaosid|11|7|4
+20|/u/davidjl123|11|2|9
+21|/u/ItzTaken|8|5|3
+22|/u/Chalupa_Godfather|8|7|1
+23|/u/DemonBurritoCat|7|5|2
+24|/u/LeinadSpoon|5|2|3
+25|/u/sbb618|3||3
+26|/u/VitaminB16|3|1|2
+27|/u/gordonpt8|3|2|1
+28|/u/LeinadFork|1||1
+29|/u/Tranquilsunrise|1||1
+30|/u/The_Shoe_Is_Here|1|1|
+31|/u/MrBahr12|1||1
+32|/u/Rajalaxo|1|1|
+33|/u/Chalupa_Grandpa|1|1|
+34|/u/cro4_chromate|1||1
+35|/u/1_Count_Per_HoC|1||1
+
+
+PaleRepresentative has achieved WRC today.

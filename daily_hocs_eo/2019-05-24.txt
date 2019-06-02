@@ -1,0 +1,47 @@
+#Daily HoC For 2019-05-24
+*Todays Counts: 10103*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/noduorg|2371|1358|1013
+2|/u/amazingpikachu_38|1963||1963
+3|/u/ItzTaken|1139|1138|1
+4|/u/Lonadont|1088|367|721
+5|/u/MaybeNotWrong|975|133|842
+6|/u/LeinadSpoon|835|767|68
+7|/u/MrUnderdawg|744|671|73
+8|/u/NikinCZ|314|290|24
+9|/u/treje|120|3|117
+10|/u/Antichess|109|106|3
+11|/u/parker_cube|66|1|65
+12|/u/Urbul|63|58|5
+13|/u/buniws|54|26|28
+14|/u/basskro|41|36|5
+15|/u/TOP_20|36|14|22
+16|/u/abplows|33|1|32
+17|/u/dominodan123|24|16|8
+18|/u/Chalupa_Grandpa|20|9|11
+19|/u/andrewtheredditor|19|6|13
+20|/u/davidjl123|12|9|3
+21|/u/marshalbaku|9|9|
+22|/u/LeinadFork|9|7|2
+23|/u/smarvin6689|9||9
+24|/u/PaleRepresentative|9|5|4
+25|/u/TOP_6689|8|5|3
+26|/u/DemonBurritoCat|7|1|6
+27|/u/SsPincus|4|3|1
+28|/u/piyushsharma301|3|1|2
+29|/u/Rajalaxo|3|1|2
+30|/u/NotQuite888|2|2|
+31|/u/gordonpt8|2||2
+32|/u/VitaminB16|2|2|
+33|/u/dasKultz|2|2|
+34|/u/Tranquilsunrise|2||2
+35|/u/Chalupa_Godfather|2|1|1
+36|/u/MrBahr12|1|1|
+37|/u/eshansingh|1|1|
+38|/u/wozeparrot|1|1|
+39|/u/1_Count_Per_HoC|1||1
+
+
+noduorg has achieved WRC today.

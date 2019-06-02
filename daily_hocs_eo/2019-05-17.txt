@@ -1,0 +1,54 @@
+#Daily HoC For 2019-05-17
+*Todays Counts: 19440*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/basskro|5010|2753|2257
+2|/u/parker_cube|3334|1455|1879
+3|/u/PaleRepresentative|2148|989|1159
+4|/u/Lonadont|1734|1368|366
+5|/u/TOP_20|1675|367|1308
+6|/u/MaybeNotWrong|1445|471|974
+7|/u/amazingpikachu_38|967||967
+8|/u/ItzTaken|882|838|44
+9|/u/MrUnderdawg|880|688|192
+10|/u/noduorg|515|323|192
+11|/u/crow_himself|308|192|116
+12|/u/Antichess|95|25|70
+13|/u/LeinadSpoon|68|35|33
+14|/u/andrewtheredditor|54|29|25
+15|/u/Chalupa_Godfather|52|41|11
+16|/u/dominodan123|48|21|27
+17|/u/NikinCZ|40|17|23
+18|/u/rschaosid|20|13|7
+19|/u/TOP_6689|18|11|7
+20|/u/smarvin6689|18|7|11
+21|/u/DemonBurritoCat|14|9|5
+22|/u/treje|14|13|1
+23|/u/gordonpt888|13|9|4
+24|/u/TehVulpez|12|3|9
+25|/u/davidjl123|12|7|5
+26|/u/KnownCandy|11|11|
+27|/u/LeinadFork|9|3|6
+28|/u/Chalupa_Grandpa|7|2|5
+29|/u/VitaminB16|5|2|3
+30|/u/gordonpt8|5|3|2
+31|/u/LeinHasTooManyAlts|3|3|
+32|/u/Rajalaxo|3|1|2
+33|/u/abplows|3|1|2
+34|/u/SsPincus|2|2|
+35|/u/MrBahr12|2|2|
+36|/u/Leinalt|2|2|
+37|/u/Tranquilsunrise|2|1|1
+38|/u/will1982|2||2
+39|/u/pecanpiecat|1||1
+40|/u/StartSkipping_sChu|1|1|
+41|/u/LeinadChopsticks|1||1
+42|/u/artbn|1|1|
+43|/u/cro4_chromate|1||1
+44|/u/1_Count_Per_HoC|1||1
+45|/u/LeinadCheeseGrater|1|1|
+46|/u/LeinadWhisk|1||1
+
+
+basskro has achieved WRC today.

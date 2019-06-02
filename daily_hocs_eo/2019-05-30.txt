@@ -1,0 +1,39 @@
+#Daily HoC For 2019-05-30
+*Todays Counts: 11858*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/ItzTaken|3264|3066|198
+2|/u/Lonadont|2186|1097|1089
+3|/u/noduorg|2162|1180|982
+4|/u/amazingpikachu_38|1388||1388
+5|/u/TOP_20|1376|97|1279
+6|/u/rideride|782|188|594
+7|/u/MrUnderdawg|255|28|227
+8|/u/dominodan123|86|39|47
+9|/u/treje|76|69|7
+10|/u/TOP_6689|43|9|34
+11|/u/MaybeNotWrong|37|20|17
+12|/u/LeinadSpoon|34|16|18
+13|/u/Chalupa_Grandpa|33|22|11
+14|/u/NikinCZ|31|26|5
+15|/u/basskro|24|10|14
+16|/u/TOP_220|19|19|
+17|/u/gordonpt8|12|10|2
+18|/u/davidjl123|11|9|2
+19|/u/smarvin6689|9|6|3
+20|/u/Antichess|7|3|4
+21|/u/andrewtheredditor|6|3|3
+22|/u/VitaminB16|3|2|1
+23|/u/abplows|3|1|2
+24|/u/MrBahr12|2|1|1
+25|/u/Rajalaxo|2|2|
+26|/u/LeinadFork|2|2|
+27|/u/SsPincus|1|1|
+28|/u/artbn|1|1|
+29|/u/Bepkoyt|1||1
+30|/u/Tranquilsunrise|1|1|
+31|/u/1_Count_Per_HoC|1|1|
+
+
+N/A has achieved WRC today.

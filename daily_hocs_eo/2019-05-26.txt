@@ -1,0 +1,42 @@
+#Daily HoC For 2019-05-26
+*Todays Counts: 26106*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/ItzTaken|10200|9309|891
+2|/u/noduorg|5033|17|5016
+3|/u/MaybeNotWrong|3146|28|3118
+4|/u/basskro|2741|1151|1590
+5|/u/Lonadont|1030|634|396
+6|/u/treje|957|73|884
+7|/u/MrUnderdawg|937|894|43
+8|/u/amazingpikachu_38|837||837
+9|/u/NikinCZ|790|778|12
+10|/u/TOP_20|167|20|147
+11|/u/PaleRepresentative|38|23|15
+12|/u/dominodan123|34|18|16
+13|/u/Antichess|31|25|6
+14|/u/SsPincus|30|18|12
+15|/u/andrewtheredditor|28|13|15
+16|/u/smarvin6689|18|6|12
+17|/u/TOP_6689|17|8|9
+18|/u/davidjl123|16|8|8
+19|/u/rideride|10|6|4
+20|/u/abplows|10|4|6
+21|/u/LeinadSpoon|9|4|5
+22|/u/Chalupa_Grandpa|5|4|1
+23|/u/Tranquilsunrise|4|2|2
+24|/u/VitaminB16|3|1|2
+25|/u/Iluvdubedgedsword|3||3
+26|/u/parker_cube|3|3|
+27|/u/gordonpt8|2|1|1
+28|/u/MrBahr12|1||1
+29|/u/Rajalaxo|1||1
+30|/u/Urbul|1|1|
+31|/u/DemonBurritoCat|1||1
+32|/u/cro4_chromate|1|1|
+33|/u/1_Count_Per_HoC|1|1|
+34|/u/LeinadFork|1|1|
+
+
+N/A has achieved WRC today.

@@ -1,0 +1,46 @@
+#Daily HoC For 2019-05-04
+*Todays Counts: 12723*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|4277||4277
+2|/u/ItzTaken|2237|2163|74
+3|/u/TehVulpez|1889|1787|102
+4|/u/MrUnderdawg|782|645|137
+5|/u/TOP_20|587|225|362
+6|/u/dominodan123|513|61|452
+7|/u/gordonpt888|438|438|
+8|/u/VitaminB16|395|9|386
+9|/u/Lonadont|328|293|35
+10|/u/Antichess|261|194|67
+11|/u/NikinCZ|251|23|228
+12|/u/Kazoeru|234|232|2
+13|/u/andrewtheredditor|196|78|118
+14|/u/PaleRepresentative|75|41|34
+15|/u/PostTheDamn887|48|45|3
+16|/u/Chalupa_Grandpa|42|37|5
+17|/u/buttdoobies|30|18|12
+18|/u/MaybeNotWrong|30|18|12
+19|/u/smarvin6689|23|5|18
+20|/u/noduorg|15|8|7
+21|/u/TOP_6689|12|10|2
+22|/u/mikshel269|10|10|
+23|/u/LeinadSpoon|9|6|3
+24|/u/treje|8|3|5
+25|/u/abplows|6||6
+26|/u/davidjl123|5|2|3
+27|/u/SsPincus|4|1|3
+28|/u/LeinadFork|4|1|3
+29|/u/NeodymiumL1vesMatter|3|1|2
+30|/u/The_Necromancer10|2|1|1
+31|/u/AntichessSideThread|2||2
+32|/u/ElliottB1|1|1|
+33|/u/MrBahr12|1||1
+34|/u/gordonpt8|1|1|
+35|/u/artbn|1|1|
+36|/u/cro4_chromate|1|1|
+37|/u/1_Count_Per_HoC|1||1
+38|/u/Tranquilsunrise|1||1
+
+
+N/A has achieved WRC today.
