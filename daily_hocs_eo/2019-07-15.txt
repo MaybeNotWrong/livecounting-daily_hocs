@@ -1,0 +1,51 @@
+#Daily HoC For 2019-07-15
+*Todays Counts: 7002*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|1821||1821
+2|/u/Lonadont|1204|540|664
+3|/u/NikinCZ|1156|1013|143
+4|/u/LeinadSpoon|1026|531|495
+5|/u/MrUnderdawg|578|567|11
+6|/u/TOP_20|514|483|31
+7|/u/SassyFacts|185|122|63
+8|/u/noduorg|172|4|168
+9|/u/MaybeNotWrong|139|118|21
+10|/u/treje|35|21|14
+11|/u/Chalupa_Grandpa|28|21|7
+12|/u/dominodan123|26|18|8
+13|/u/davidjl123|17|11|6
+14|/u/rideride|15|14|1
+15|/u/parker_cube|14|1|13
+16|/u/iwannaplay5050|8|1|7
+17|/u/PaleRepresentative|8|7|1
+18|/u/smarvin6689|6|2|4
+19|/u/VitaminB16|6|2|4
+20|/u/LeinadFork|5|2|3
+21|/u/TOP_6689|5|1|4
+22|/u/abplows|3|2|1
+23|/u/LeinadCutlery|3|2|1
+24|/u/luc122c|3|2|1
+25|/u/888Nox|3|2|1
+26|/u/gordonpt8|3|3|
+27|/u/MrBahr12|2|1|1
+28|/u/andrewtheredditor|2|2|
+29|/u/basskro|1|1|
+30|/u/timo78888|1||1
+31|/u/LeinadSpatula|1||1
+32|/u/LeinadKnife|1|1|
+33|/u/LeinadTongs|1||1
+34|/u/artbn|1|1|
+35|/u/ItzTaken|1|1|
+36|/u/LeinadWhisk|1|1|
+37|/u/LeinadChopsticks|1|1|
+38|/u/Blackwind123|1||1
+39|/u/LeinadMachete|1|1|
+40|/u/Tranquilsunrise|1||1
+41|/u/LeinadShredder|1||1
+42|/u/1_Count_Per_HoC|1||1
+43|/u/LeinadLadle|1||1
+
+
+N/A has achieved WRC today.

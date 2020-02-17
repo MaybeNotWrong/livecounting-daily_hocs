@@ -1,0 +1,41 @@
+#Daily HoC For 2019-07-05
+*Todays Counts: 8496*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/LeinadSpoon|1810|1624|186
+2|/u/amazingpikachu_38|1514||1514
+3|/u/Lonadont|1023|258|765
+4|/u/treje|911|605|306
+5|/u/Chalupa_Godfather|589|589|
+6|/u/basskro|551|96|455
+7|/u/SecretAsianMa|467|306|161
+8|/u/count_worse|382|1|381
+9|/u/PaleRepresentative|264|160|104
+10|/u/MaybeNotWrong|223|26|197
+11|/u/ItzTaken|181|175|6
+12|/u/Trial-Name|160|104|56
+13|/u/Chalupa_Grandpa|103|100|3
+14|/u/dominodan123|87|63|24
+15|/u/TOP_20|48|33|15
+16|/u/davidjl123|43|19|24
+17|/u/MrUnderdawg|37|30|7
+18|/u/andrewtheredditor|36|21|15
+19|/u/NikinCZ|11|4|7
+20|/u/TOP_6689|10|8|2
+21|/u/smarvin6689|9|2|7
+22|/u/gordonpt8|7|4|3
+23|/u/chalupa_bot|6|5|1
+24|/u/VitaminB16|6|5|1
+25|/u/noduorg|5|2|3
+26|/u/LeinadFork|3|2|1
+27|/u/MrBahr12|2|2|
+28|/u/abplows|2||2
+29|/u/rideride|2|2|
+30|/u/Rajalaxo|1||1
+31|/u/artbn|1|1|
+32|/u/DemonBurritoCat|1|1|
+33|/u/1_Count_Per_HoC|1||1
+
+
+N/A has achieved WRC today.

@@ -1,0 +1,41 @@
+#Daily HoC For 2019-07-23
+*Todays Counts: 5600*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/TOP_20|1859|1551|308
+2|/u/amazingpikachu_38|1465||1465
+3|/u/Lonadont|1393|691|702
+4|/u/NikinCZ|464|219|245
+5|/u/Chalupa_Grandpa|184|167|17
+6|/u/treje|44|40|4
+7|/u/abplows|42|41|1
+8|/u/MaybeNotWrong|30|22|8
+9|/u/dominodan123|21|12|9
+10|/u/davidjl123|16|10|6
+11|/u/VitaminB16|13|11|2
+12|/u/gordonpt8|9|7|2
+13|/u/SassyFacts|8|6|2
+14|/u/LeinadSpoon|7|3|4
+15|/u/smarvin6689|6|1|5
+16|/u/MrUnderdawg|5|2|3
+17|/u/andrewtheredditor|5|3|2
+18|/u/Tranquilsunrise|5|3|2
+19|/u/artbn|3|3|
+20|/u/noduorg|3|2|1
+21|/u/TOP_6689|3||3
+22|/u/LeinadFork|2||2
+23|/u/PaleRepresentative|2|1|1
+24|/u/NeodymiumL1vesMatter|2||2
+25|/u/basskro|1|1|
+26|/u/historiole|1||1
+27|/u/buniws|1|1|
+28|/u/rschaosid|1|1|
+29|/u/MrBahr12|1|1|
+30|/u/ItzTaken|1||1
+31|/u/NeonL1vesMatter|1||1
+32|/u/Blackwind123|1||1
+33|/u/1_Count_Per_HoC|1|1|
+
+
+N/A has achieved WRC today.

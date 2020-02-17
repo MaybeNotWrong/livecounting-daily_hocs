@@ -1,0 +1,33 @@
+#Daily HoC For 2019-11-06
+*Todays Counts: 1536*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/amazingpikachu_38|440||440
+2|/u/Lonadont|275|261|14
+3|/u/TOP_20|231||231
+4|/u/gordonpt8|229|229|
+5|/u/MrUnderdawg|187|170|17
+6|/u/treje|80|53|27
+7|/u/davidjl123|22|13|9
+8|/u/sakima11|12|8|4
+9|/u/dominodan123|8|5|3
+10|/u/LeinadSpoon|6|5|1
+11|/u/lyeinfyer|6|1|5
+12|/u/TehVulpez|6|4|2
+13|/u/andrewtheredditor|5|1|4
+14|/u/basskro|4|4|
+15|/u/Myoniora|4|4|
+16|/u/VitaminB16|4|3|1
+17|/u/noduorg|3|2|1
+18|/u/ItzTaken|2|1|1
+19|/u/PaleRepresentative|2|1|1
+20|/u/Antichess|2||2
+21|/u/abplows|2|1|1
+22|/u/smarvin6689|2|1|1
+23|/u/MaybeNotWrong|2|1|1
+24|/u/Countletics|1||1
+25|/u/MrBahr12|1||1
+
+
+N/A has achieved WRC today.
