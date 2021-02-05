@@ -1,0 +1,30 @@
+#Daily HoC For 2020-05-13
+*Todays Counts: 4847*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/Trial-Name|1923|530|1393
+2|/u/Lonadont|1359|825|534
+3|/u/MaybeNotWrong|1047|1038|9
+4|/u/treje|465|2|463
+5|/u/davidjl123|16|9|7
+6|/u/dominodan123|6|4|2
+7|/u/scottm3|5|2|3
+8|/u/andrewtheredditor|4|4|
+9|/u/Antichess|4||4
+10|/u/VitaminB16|3|2|1
+11|/u/smarvin6689|3|2|1
+12|/u/TOP_20|2|1|1
+13|/u/LEINAD-19|1|1|
+14|/u/Trial-Namesake|1||1
+15|/u/noduorg|1|1|
+16|/u/MrBahr12|1||1
+17|/u/TRIAL-RUN|1||1
+18|/u/gordonpt8|1|1|
+19|/u/batpuppy|1|1|
+20|/u/amazingpikachu_38|1||1
+21|/u/TRIAL-COUNT|1||1
+22|/u/Tranquilsunrise|1|1|
+
+
+Trial-Name has achieved WRC today.

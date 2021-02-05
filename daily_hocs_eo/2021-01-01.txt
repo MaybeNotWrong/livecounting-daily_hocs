@@ -1,0 +1,29 @@
+#Daily HoC For 2021-01-01
+*Todays Counts: 5408*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/Trial-Name|2634|1123|1511
+2|/u/MaybeNotWrong|2365|1253|1112
+3|/u/Lonadont|286|266|20
+4|/u/treje|39|25|14
+5|/u/amazingpikachu_38|29||29
+6|/u/andrewtheredditor|16|13|3
+7|/u/davidjl123|14|6|8
+8|/u/noduorg|4|3|1
+9|/u/TOP_20|3|2|1
+10|/u/rideride|3|3|
+11|/u/PaleRepresentative|2|2|
+12|/u/VitaminB16|2||2
+13|/u/lurker_24|2|1|1
+14|/u/abplows|2|2|
+15|/u/LeinadSpoon|1|1|
+16|/u/artbn|1|1|
+17|/u/MrUnderdawg|1||1
+18|/u/dominodan123|1|1|
+19|/u/smarvin6689|1||1
+20|/u/TheMatsValk|1|1|
+21|/u/gordonpt8|1|1|
+
+
+Trial-Name has achieved WRC today.
