@@ -1,0 +1,32 @@
+#Daily HoC For 2021-02-19
+*Todays Counts: 5876*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/ItzTaken|2357|2287|70
+2|/u/MaybeNotWrong|2152|171|1981
+3|/u/LeinadSpoon|690|373|317
+4|/u/treje|476|14|462
+5|/u/andrewtheredditor|42|23|19
+6|/u/TOP_20|37|17|20
+7|/u/Lonadont|30|16|14
+8|/u/davidjl123|21|11|10
+9|/u/amazingpikachu_38|19||19
+10|/u/LeinadCheeseGrater|12|2|10
+11|/u/abplows|6|6|
+12|/u/noduorg|6|2|4
+13|/u/NobodyL0vesMe|6|2|4
+14|/u/smarvin6689|5|2|3
+15|/u/supersammy00|5|2|3
+16|/u/YouShouldCountMore|2|2|
+17|/u/VitaminB16|2|2|
+18|/u/Zaajdaeon|2|2|
+19|/u/artbn|1||1
+20|/u/HourPartReminderBot|1||1
+21|/u/TheNitromeFan|1|1|
+22|/u/Antichess|1|1|
+23|/u/dominodan123|1|1|
+24|/u/Tranquilsunrise|1|1|
+
+
+N/A has achieved WRC today.
