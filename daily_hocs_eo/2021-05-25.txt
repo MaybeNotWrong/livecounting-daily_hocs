@@ -1,0 +1,37 @@
+#Daily HoC For 2021-05-25
+*Todays Counts: 31795*
+
+\#|Username|No. of Counts|Evens|Odds
+-|-|-|-|-
+1|/u/ItzTaken|15295|15279|16
+2|/u/amazingpikachu_38|10163|29|10134
+3|/u/MaybeNotWrong|4978|7|4971
+4|/u/ddodd69|610|441|169
+5|/u/LeinadSpoon|369|14|355
+6|/u/TheMatsValk|143|1|142
+7|/u/Lonadont|68|19|49
+8|/u/andrewtheredditor|36|23|13
+9|/u/davidjl123|30|23|7
+10|/u/Rajalaxo|22|14|8
+11|/u/Countletics|19|14|5
+12|/u/Trial-Name|12|4|8
+13|/u/NobodyL0vesMe|11|4|7
+14|/u/Blackwind123|8|8|
+15|/u/abplows|5|2|3
+16|/u/buy_me_a_pint|5|4|1
+17|/u/Iamspeedy36|3|3|
+18|/u/VitaminB16|3|1|2
+19|/u/noduorg|2|2|
+20|/u/AutomatedCountingBot|2|2|
+21|/u/Chalupa_Chad|2||2
+22|/u/MrGally75|2|1|1
+23|/u/darrenrs|1|1|
+24|/u/artbn|1|1|
+25|/u/Cox_1920|1||1
+26|/u/dominodan123|1||1
+27|/u/Antichess|1||1
+28|/u/gordonpt8|1||1
+29|/u/Tranquilsunrise|1|1|
+
+
+N/A has achieved WRC today.
