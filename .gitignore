@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.py
-daily_hocs_json/~hoc.json
+*.json
